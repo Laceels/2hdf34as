@@ -1,0 +1,4524 @@
+[
+  {
+    "topic_id": 3,
+    "day": "2015-09-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 207,
+    "median_pub_dt": "2015-09-01T20:16:16"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-01T08:53:15"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-09-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 34,
+    "median_pub_dt": "2015-09-01T14:02:01"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-09-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 13,
+    "median_pub_dt": "2015-09-01T12:42:35"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-09-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 16,
+    "median_pub_dt": "2015-09-01T16:27:09"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-09-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 24,
+    "median_pub_dt": "2015-09-01T10:38:44"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 3,
+    "n_posts": 116,
+    "median_pub_dt": "2015-09-02T10:08:46"
+  },
+  {
+    "topic_id": 5,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 2,
+    "n_posts": 14,
+    "median_pub_dt": "2015-09-02T09:03:44.500000"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-09-02T16:52:09"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 17,
+    "median_pub_dt": "2015-09-02T11:23:20"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 136,
+    "median_pub_dt": "2015-09-02T11:00:56"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-02T14:34:55"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 20,
+    "median_pub_dt": "2015-09-02T05:30:00"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 139,
+    "median_pub_dt": "2015-09-02T15:22:10"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 367,
+    "median_pub_dt": "2015-09-02T05:30:00"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-09-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-02T16:01:58"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 2,
+    "n_posts": 65,
+    "median_pub_dt": "2015-09-03T09:46:41.500000"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 2,
+    "n_posts": 476,
+    "median_pub_dt": "2015-09-03T12:40:18"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 2,
+    "n_posts": 111,
+    "median_pub_dt": "2015-09-03T09:15:07"
+  },
+  {
+    "topic_id": 5,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-09-03T10:11:47"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 12,
+    "median_pub_dt": "2015-09-03T06:21:18"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 74,
+    "median_pub_dt": "2015-09-03T05:30:00"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-03T14:35:22"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 38,
+    "median_pub_dt": "2015-09-03T13:38:11"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 49,
+    "median_pub_dt": "2015-09-03T17:01:44"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-09-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 150,
+    "median_pub_dt": "2015-09-03T13:57:57"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 36,
+    "median_pub_dt": "2015-09-04T14:01:09"
+  },
+  {
+    "topic_id": 5,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-09-04T17:55:12"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-09-04T22:17:23"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 87,
+    "median_pub_dt": "2015-09-04T08:34:40"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-04T11:07:58"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-04T10:33:20"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-09-04T14:20:18"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 21,
+    "median_pub_dt": "2015-09-04T14:07:41"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 120,
+    "median_pub_dt": "2015-09-04T09:58:25"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 83,
+    "median_pub_dt": "2015-09-04T17:23:28"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 336,
+    "median_pub_dt": "2015-09-04T17:16:48"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 43,
+    "median_pub_dt": "2015-09-04T12:13:00"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 37,
+    "median_pub_dt": "2015-09-04T05:30:00"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-09-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 25,
+    "median_pub_dt": "2015-09-05T17:25:01"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 19,
+    "median_pub_dt": "2015-09-05T22:50:34"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-09-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-09-05T15:21:39"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 472,
+    "median_pub_dt": "2015-09-05T14:00:00"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-09-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 137,
+    "median_pub_dt": "2015-09-05T15:01:52"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 21,
+    "median_pub_dt": "2015-09-05T13:20:43"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-09-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 14,
+    "median_pub_dt": "2015-09-05T08:00:00"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-09-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-09-06T18:03:24"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 19,
+    "median_pub_dt": "2015-09-06T18:43:23"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-09-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-09-06T14:11:30"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-09-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 133,
+    "median_pub_dt": "2015-09-06T11:48:02"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-09-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-09-06T16:50:34"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-09-07T00:00:00",
+    "n_articles": 3,
+    "n_posts": 14,
+    "median_pub_dt": "2015-09-07T09:30:36"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-09-07T00:00:00",
+    "n_articles": 2,
+    "n_posts": 24,
+    "median_pub_dt": "2015-09-07T13:47:25.500000"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-09-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 17,
+    "median_pub_dt": "2015-09-07T12:21:00"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 705,
+    "median_pub_dt": "2015-09-07T20:23:52"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-09-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-09-07T15:54:45"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-07T14:49:33"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 22,
+    "median_pub_dt": "2015-09-07T14:08:10"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-08T00:00:00",
+    "n_articles": 3,
+    "n_posts": 36,
+    "median_pub_dt": "2015-09-08T18:29:09"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-09-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-09-08T17:48:16"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-09-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-09-08T07:11:41"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-08T23:09:41"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-09-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-08T13:16:34"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 133,
+    "median_pub_dt": "2015-09-08T14:10:39"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-09-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-09-08T11:15:30"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-09-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-08T15:24:56"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-09-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-09-08T17:02:49"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-09-09T00:00:00",
+    "n_articles": 3,
+    "n_posts": 2854,
+    "median_pub_dt": "2015-09-09T14:23:34"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-09-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 9,
+    "median_pub_dt": "2015-09-09T18:33:31"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-09-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 346,
+    "median_pub_dt": "2015-09-09T17:42:37"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-09-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 9,
+    "median_pub_dt": "2015-09-09T13:48:12"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-09-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 451,
+    "median_pub_dt": "2015-09-09T12:58:45"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 465,
+    "median_pub_dt": "2015-09-09T07:05:25"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-09-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 37,
+    "median_pub_dt": "2015-09-09T15:51:31"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-09-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-09T08:41:20"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 2,
+    "n_posts": 28,
+    "median_pub_dt": "2015-09-10T15:30:48"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 12,
+    "median_pub_dt": "2015-09-10T11:30:28"
+  },
+  {
+    "topic_id": 5,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-10T07:31:33"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 236,
+    "median_pub_dt": "2015-09-10T06:50:28"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 45,
+    "median_pub_dt": "2015-09-10T12:40:57"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 60,
+    "median_pub_dt": "2015-09-10T16:47:47"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-09-10T17:42:35"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-10T18:40:44"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-09-10T19:10:06"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 211,
+    "median_pub_dt": "2015-09-10T15:29:32"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 75,
+    "median_pub_dt": "2015-09-10T11:18:50"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-10T12:18:32"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-09-11T00:00:00",
+    "n_articles": 2,
+    "n_posts": 1070,
+    "median_pub_dt": "2015-09-11T13:48:51"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-09-11T00:00:00",
+    "n_articles": 2,
+    "n_posts": 9,
+    "median_pub_dt": "2015-09-11T14:15:31"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-09-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-09-11T12:58:59"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-09-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 651,
+    "median_pub_dt": "2015-09-11T19:05:21"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-09-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 33,
+    "median_pub_dt": "2015-09-12T12:02:12"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-09-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-09-12T14:32:54"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-09-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 38,
+    "median_pub_dt": "2015-09-12T22:29:06"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 96,
+    "median_pub_dt": "2015-09-12T11:32:42"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-09-12T20:31:36"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-09-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 28,
+    "median_pub_dt": "2015-09-12T12:00:00"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-09-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 37,
+    "median_pub_dt": "2015-09-13T11:06:23"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-09-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 31,
+    "median_pub_dt": "2015-09-13T08:00:00"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-09-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-13T14:45:39"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-09-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 163,
+    "median_pub_dt": "2015-09-13T08:33:42"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-09-14T00:00:00",
+    "n_articles": 2,
+    "n_posts": 506,
+    "median_pub_dt": "2015-09-14T12:26:35"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-14T00:00:00",
+    "n_articles": 2,
+    "n_posts": 17,
+    "median_pub_dt": "2015-09-14T16:04:27.500000"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-09-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 86,
+    "median_pub_dt": "2015-09-14T06:25:45"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-09-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 145,
+    "median_pub_dt": "2015-09-14T10:52:16"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 119,
+    "median_pub_dt": "2015-09-14T16:31:36"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-09-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 9,
+    "median_pub_dt": "2015-09-14T17:05:43"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-09-14T08:43:59"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-09-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 40,
+    "median_pub_dt": "2015-09-14T17:53:27"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-09-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 192,
+    "median_pub_dt": "2015-09-15T10:33:09"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-09-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 100,
+    "median_pub_dt": "2015-09-15T13:14:53"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-09-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 26,
+    "median_pub_dt": "2015-09-15T17:15:03"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-09-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-15T12:40:14"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 17,
+    "median_pub_dt": "2015-09-15T13:05:34"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 305,
+    "median_pub_dt": "2015-09-15T16:58:51"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-09-15T12:45:24"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-09-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 31,
+    "median_pub_dt": "2015-09-15T10:57:35"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-09-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 9,
+    "median_pub_dt": "2015-09-15T15:11:21"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-09-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-09-16T10:03:24"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-09-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 14,
+    "median_pub_dt": "2015-09-16T08:35:14"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-09-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 102,
+    "median_pub_dt": "2015-09-16T07:00:00"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-09-16T19:57:52"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 101,
+    "median_pub_dt": "2015-09-16T14:25:14"
+  },
+  {
+    "topic_id": 28,
+    "day": "2015-09-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 223,
+    "median_pub_dt": "2015-09-16T18:25:15"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-16T17:09:46"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-09-17T00:00:00",
+    "n_articles": 2,
+    "n_posts": 288,
+    "median_pub_dt": "2015-09-17T20:12:57.500000"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-09-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 119,
+    "median_pub_dt": "2015-09-17T18:32:51"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-09-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 9,
+    "median_pub_dt": "2015-09-17T15:42:33"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-09-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 40,
+    "median_pub_dt": "2015-09-17T09:00:00"
+  },
+  {
+    "topic_id": 28,
+    "day": "2015-09-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 32,
+    "median_pub_dt": "2015-09-17T08:08:07"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-09-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 124,
+    "median_pub_dt": "2015-09-17T22:47:00"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-09-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 11,
+    "median_pub_dt": "2015-09-17T15:01:59"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-18T00:00:00",
+    "n_articles": 3,
+    "n_posts": 21,
+    "median_pub_dt": "2015-09-18T15:18:56"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-09-18T00:00:00",
+    "n_articles": 2,
+    "n_posts": 473,
+    "median_pub_dt": "2015-09-18T16:42:16"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-18T14:14:58"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-09-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-18T14:35:19"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-09-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-18T07:38:24"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-09-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 908,
+    "median_pub_dt": "2015-09-18T12:22:33"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-18T22:18:00"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-09-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-18T12:59:26"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-09-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 25,
+    "median_pub_dt": "2015-09-18T12:00:15"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-09-19T23:32:19"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-09-19T09:00:00"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-20T00:00:00",
+    "n_articles": 2,
+    "n_posts": 345,
+    "median_pub_dt": "2015-09-20T19:47:58"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-09-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 42,
+    "median_pub_dt": "2015-09-20T15:00:00"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-09-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-09-20T12:44:20"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-09-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 84,
+    "median_pub_dt": "2015-09-20T12:41:10"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-09-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 44,
+    "median_pub_dt": "2015-09-20T12:00:00"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-09-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-20T17:47:25"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-09-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-09-21T10:48:43"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-09-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 836,
+    "median_pub_dt": "2015-09-21T16:27:44"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-09-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-09-21T12:08:58"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 39,
+    "median_pub_dt": "2015-09-21T13:51:16"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-09-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-09-21T14:27:50"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-09-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-21T08:50:44"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-21T11:30:41"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-09-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-09-21T16:21:26"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-09-22T00:00:00",
+    "n_articles": 2,
+    "n_posts": 85,
+    "median_pub_dt": "2015-09-22T11:41:38.500000"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-09-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 361,
+    "median_pub_dt": "2015-09-22T14:27:04"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-09-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 50,
+    "median_pub_dt": "2015-09-22T16:18:59"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-09-22T08:04:40"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-09-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 67,
+    "median_pub_dt": "2015-09-22T05:30:00"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-09-23T00:00:00",
+    "n_articles": 2,
+    "n_posts": 289,
+    "median_pub_dt": "2015-09-23T09:47:41.500000"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-09-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 202,
+    "median_pub_dt": "2015-09-23T05:30:02"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-09-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 24,
+    "median_pub_dt": "2015-09-23T13:00:49"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-09-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 44,
+    "median_pub_dt": "2015-09-23T13:34:36"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 387,
+    "median_pub_dt": "2015-09-23T05:30:00"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-09-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-09-23T13:31:00"
+  },
+  {
+    "topic_id": 28,
+    "day": "2015-09-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 73,
+    "median_pub_dt": "2015-09-23T17:18:14"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-09-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 187,
+    "median_pub_dt": "2015-09-23T17:11:32"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-09-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 37,
+    "median_pub_dt": "2015-09-23T05:30:00"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-09-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 64,
+    "median_pub_dt": "2015-09-24T10:48:45"
+  },
+  {
+    "topic_id": 5,
+    "day": "2015-09-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 49,
+    "median_pub_dt": "2015-09-24T19:54:27"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 49,
+    "median_pub_dt": "2015-09-24T20:37:10"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-09-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 37,
+    "median_pub_dt": "2015-09-24T08:05:03"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-09-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-09-24T16:31:01"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-09-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 149,
+    "median_pub_dt": "2015-09-24T17:28:52"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-09-24T14:09:35"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 73,
+    "median_pub_dt": "2015-09-24T10:00:17"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-09-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 12,
+    "median_pub_dt": "2015-09-24T12:20:20"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-25T00:00:00",
+    "n_articles": 2,
+    "n_posts": 20,
+    "median_pub_dt": "2015-09-25T06:33:31"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-09-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 13,
+    "median_pub_dt": "2015-09-25T08:02:00"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-09-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-25T17:06:31"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-09-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-09-25T12:49:43"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 17,
+    "median_pub_dt": "2015-09-25T16:51:58"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-09-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 19,
+    "median_pub_dt": "2015-09-25T12:49:47"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-09-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 173,
+    "median_pub_dt": "2015-09-26T09:54:56"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 28,
+    "median_pub_dt": "2015-09-26T13:49:04"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 517,
+    "median_pub_dt": "2015-09-26T17:26:40"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-09-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-09-26T19:15:22"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-09-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 306,
+    "median_pub_dt": "2015-09-27T11:02:16"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-09-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-27T10:08:53"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-09-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 25,
+    "median_pub_dt": "2015-09-27T16:36:33"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-09-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-09-27T11:35:49"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 34,
+    "median_pub_dt": "2015-09-27T15:40:44"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 22,
+    "median_pub_dt": "2015-09-27T18:42:00"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-09-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 21,
+    "median_pub_dt": "2015-09-27T15:00:00"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-09-28T00:00:00",
+    "n_articles": 2,
+    "n_posts": 48,
+    "median_pub_dt": "2015-09-28T14:33:01"
+  },
+  {
+    "topic_id": 28,
+    "day": "2015-09-28T00:00:00",
+    "n_articles": 2,
+    "n_posts": 610,
+    "median_pub_dt": "2015-09-28T17:28:44.500000"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-09-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 13,
+    "median_pub_dt": "2015-09-28T05:56:25"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-09-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 25,
+    "median_pub_dt": "2015-09-28T14:32:43"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-09-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-28T11:20:15"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-28T14:34:58"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-09-28T14:07:17"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 12,
+    "median_pub_dt": "2015-09-28T15:25:14"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-09-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 55,
+    "median_pub_dt": "2015-09-28T06:13:00"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-09-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-09-29T12:17:57"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-09-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-09-29T20:06:55"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-09-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-09-29T08:34:32"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-09-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 526,
+    "median_pub_dt": "2015-09-29T12:16:08"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-09-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-09-29T14:03:43"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 61,
+    "median_pub_dt": "2015-09-29T16:48:49"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-09-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 9,
+    "median_pub_dt": "2015-09-29T10:05:26"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-09-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-09-29T17:57:18"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-09-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-09-29T14:05:11"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-09-30T00:00:00",
+    "n_articles": 2,
+    "n_posts": 61,
+    "median_pub_dt": "2015-09-30T10:07:07"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-09-30T00:00:00",
+    "n_articles": 2,
+    "n_posts": 33,
+    "median_pub_dt": "2015-09-30T15:42:14"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-09-30T00:00:00",
+    "n_articles": 2,
+    "n_posts": 215,
+    "median_pub_dt": "2015-09-30T12:22:49.500000"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-09-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-09-30T23:02:22"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-09-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 49,
+    "median_pub_dt": "2015-09-30T09:55:26"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-09-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-09-30T05:57:19"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-09-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-09-30T07:00:00"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-01T18:28:44"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-01T23:33:12"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 42,
+    "median_pub_dt": "2015-10-01T15:12:10"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 176,
+    "median_pub_dt": "2015-10-01T20:56:39"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-10-01T13:37:56"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 262,
+    "median_pub_dt": "2015-10-01T08:00:00"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 40,
+    "median_pub_dt": "2015-10-01T10:07:25"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 66,
+    "median_pub_dt": "2015-10-01T19:16:35"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 74,
+    "median_pub_dt": "2015-10-01T18:02:34"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 67,
+    "median_pub_dt": "2015-10-01T16:11:42"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-10-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-10-02T07:10:05"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-10-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 57,
+    "median_pub_dt": "2015-10-02T10:05:03"
+  },
+  {
+    "topic_id": 5,
+    "day": "2015-10-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-02T20:01:34"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-10-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 107,
+    "median_pub_dt": "2015-10-02T08:50:36"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-10-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-10-02T16:13:05"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 535,
+    "median_pub_dt": "2015-10-02T14:28:42"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-10-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1305,
+    "median_pub_dt": "2015-10-02T07:18:44"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-10-02T15:19:12"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-10-04T00:00:00",
+    "n_articles": 2,
+    "n_posts": 20,
+    "median_pub_dt": "2015-10-04T17:40:10"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-10-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 40,
+    "median_pub_dt": "2015-10-04T11:15:02"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-10-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 285,
+    "median_pub_dt": "2015-10-04T15:09:58"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-10-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 412,
+    "median_pub_dt": "2015-10-04T17:00:00"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-10-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 91,
+    "median_pub_dt": "2015-10-04T11:55:17"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 11,
+    "median_pub_dt": "2015-10-04T17:00:00"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-10-05T00:00:00",
+    "n_articles": 2,
+    "n_posts": 95,
+    "median_pub_dt": "2015-10-05T07:58:11.500000"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-10-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-10-05T10:53:09"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-10-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 96,
+    "median_pub_dt": "2015-10-05T12:36:50"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-10-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 13,
+    "median_pub_dt": "2015-10-05T16:29:01"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-10-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1104,
+    "median_pub_dt": "2015-10-05T10:16:33"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-10-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 26,
+    "median_pub_dt": "2015-10-05T05:30:00"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-10-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 25,
+    "median_pub_dt": "2015-10-05T12:10:56"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-10-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 86,
+    "median_pub_dt": "2015-10-05T16:23:37"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-10-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-10-05T16:24:40"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-10-06T00:00:00",
+    "n_articles": 2,
+    "n_posts": 285,
+    "median_pub_dt": "2015-10-06T09:04:46.500000"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-10-06T00:00:00",
+    "n_articles": 2,
+    "n_posts": 46,
+    "median_pub_dt": "2015-10-06T12:12:50.500000"
+  },
+  {
+    "topic_id": 5,
+    "day": "2015-10-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 25,
+    "median_pub_dt": "2015-10-06T22:00:27"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-10-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 78,
+    "median_pub_dt": "2015-10-06T14:34:18"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-10-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 27,
+    "median_pub_dt": "2015-10-06T14:18:16"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-10-06T05:30:00"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-10-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 54,
+    "median_pub_dt": "2015-10-07T17:06:47"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-10-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 14,
+    "median_pub_dt": "2015-10-07T12:14:48"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-10-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 123,
+    "median_pub_dt": "2015-10-07T21:08:04"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-10-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 115,
+    "median_pub_dt": "2015-10-07T14:42:42"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-10-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-10-07T12:45:50"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-08T00:00:00",
+    "n_articles": 2,
+    "n_posts": 888,
+    "median_pub_dt": "2015-10-08T19:49:06.500000"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-10-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 176,
+    "median_pub_dt": "2015-10-08T05:40:53"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-10-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 55,
+    "median_pub_dt": "2015-10-08T12:00:22"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-10-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-08T07:00:00"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-10-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 171,
+    "median_pub_dt": "2015-10-08T05:30:00"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-10-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 139,
+    "median_pub_dt": "2015-10-08T14:34:58"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-10-08T15:27:59"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 16,
+    "median_pub_dt": "2015-10-08T13:34:22"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-10-09T00:00:00",
+    "n_articles": 2,
+    "n_posts": 29,
+    "median_pub_dt": "2015-10-09T08:50:20"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-10-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 20,
+    "median_pub_dt": "2015-10-09T11:50:58"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-10-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 42,
+    "median_pub_dt": "2015-10-09T06:24:13"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 16,
+    "median_pub_dt": "2015-10-09T17:55:19"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 225,
+    "median_pub_dt": "2015-10-09T18:01:23"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-10-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-10-09T21:44:16"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-10-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-10-09T12:20:16"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-10-10T00:00:00",
+    "n_articles": 2,
+    "n_posts": 18,
+    "median_pub_dt": "2015-10-10T15:43:41.500000"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-10-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-10-10T22:53:04"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-10-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-10-10T15:51:34"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-10-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 66,
+    "median_pub_dt": "2015-10-10T17:31:43"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-10-10T20:19:38"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-10-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-10-10T08:00:00"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-10-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-11T01:27:37"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-10-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-11T14:47:34"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-10-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 37,
+    "median_pub_dt": "2015-10-11T13:40:45"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1890,
+    "median_pub_dt": "2015-10-11T18:40:11"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 2,
+    "n_posts": 183,
+    "median_pub_dt": "2015-10-12T15:10:13.500000"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-12T11:31:46"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-10-12T07:52:29"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 135,
+    "median_pub_dt": "2015-10-12T12:00:23"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 21,
+    "median_pub_dt": "2015-10-12T21:30:36"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-10-12T15:50:07"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-10-12T11:09:01"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 37,
+    "median_pub_dt": "2015-10-12T12:32:37"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 19,
+    "median_pub_dt": "2015-10-12T14:48:54"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-10-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-10-12T09:06:54"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-10-13T00:00:00",
+    "n_articles": 2,
+    "n_posts": 16,
+    "median_pub_dt": "2015-10-13T11:52:41.500000"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-10-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 61,
+    "median_pub_dt": "2015-10-13T09:48:18"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-10-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 36,
+    "median_pub_dt": "2015-10-13T16:48:02"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-10-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 33,
+    "median_pub_dt": "2015-10-13T16:13:58"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 14,
+    "median_pub_dt": "2015-10-13T11:47:02"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-10-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 146,
+    "median_pub_dt": "2015-10-14T17:59:48"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-10-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 137,
+    "median_pub_dt": "2015-10-14T05:30:00"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-10-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-10-14T12:00:00"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-10-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-14T11:20:08"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-10-14T14:18:12"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 73,
+    "median_pub_dt": "2015-10-14T18:02:47"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 2,
+    "n_posts": 20,
+    "median_pub_dt": "2015-10-15T09:19:51"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 2,
+    "n_posts": 148,
+    "median_pub_dt": "2015-10-15T14:47:34"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 90,
+    "median_pub_dt": "2015-10-15T16:57:13"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 51,
+    "median_pub_dt": "2015-10-15T09:49:59"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-10-15T20:53:02"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 25,
+    "median_pub_dt": "2015-10-15T17:20:18"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 36,
+    "median_pub_dt": "2015-10-15T16:54:36"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 39,
+    "median_pub_dt": "2015-10-15T12:51:36"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 11,
+    "median_pub_dt": "2015-10-15T16:20:11"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-10-15T15:39:58"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-10-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-10-15T11:49:39"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-10-16T00:00:00",
+    "n_articles": 2,
+    "n_posts": 33,
+    "median_pub_dt": "2015-10-16T12:08:11.500000"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-10-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 37,
+    "median_pub_dt": "2015-10-16T10:05:49"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-10-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 63,
+    "median_pub_dt": "2015-10-16T12:17:59"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-10-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 13,
+    "median_pub_dt": "2015-10-16T10:45:33"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-10-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-10-16T11:11:52"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 25,
+    "median_pub_dt": "2015-10-16T15:21:54"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 50,
+    "median_pub_dt": "2015-10-16T17:29:05"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-10-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 14,
+    "median_pub_dt": "2015-10-16T09:47:49"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-10-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 11,
+    "median_pub_dt": "2015-10-16T10:32:21"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-10-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 255,
+    "median_pub_dt": "2015-10-17T12:31:46"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-10-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 64,
+    "median_pub_dt": "2015-10-17T17:45:51"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-10-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2361,
+    "median_pub_dt": "2015-10-17T09:00:00"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 150,
+    "median_pub_dt": "2015-10-17T17:13:07"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-10-17T16:52:00"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-10-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-17T08:00:00"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-10-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 269,
+    "median_pub_dt": "2015-10-18T17:06:48"
+  },
+  {
+    "topic_id": 5,
+    "day": "2015-10-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 28,
+    "median_pub_dt": "2015-10-18T13:44:18"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-10-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-10-18T22:28:05"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-10-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 326,
+    "median_pub_dt": "2015-10-18T11:00:00"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-10-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 95,
+    "median_pub_dt": "2015-10-18T16:02:52"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 22,
+    "median_pub_dt": "2015-10-18T12:22:33"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-10-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 51,
+    "median_pub_dt": "2015-10-18T09:00:00"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-10-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 31,
+    "median_pub_dt": "2015-10-19T06:48:18"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-10-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 65,
+    "median_pub_dt": "2015-10-19T16:31:16"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-10-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 459,
+    "median_pub_dt": "2015-10-19T14:44:41"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-10-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 18,
+    "median_pub_dt": "2015-10-19T11:40:59"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 40,
+    "median_pub_dt": "2015-10-19T18:01:00"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 28,
+    "median_pub_dt": "2015-10-19T18:01:53"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 13,
+    "median_pub_dt": "2015-10-19T14:04:34"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-10-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1167,
+    "median_pub_dt": "2015-10-19T17:55:08"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 2,
+    "n_posts": 150,
+    "median_pub_dt": "2015-10-20T09:04:28.500000"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 2,
+    "n_posts": 546,
+    "median_pub_dt": "2015-10-20T13:13:56"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 13,
+    "median_pub_dt": "2015-10-20T10:19:04"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 35,
+    "median_pub_dt": "2015-10-20T22:00:55"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 22,
+    "median_pub_dt": "2015-10-20T11:56:19"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 34,
+    "median_pub_dt": "2015-10-20T17:25:18"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 28,
+    "median_pub_dt": "2015-10-20T15:00:00"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-10-20T12:46:03"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 85,
+    "median_pub_dt": "2015-10-20T10:23:05"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-10-20T18:08:08"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-10-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 14,
+    "median_pub_dt": "2015-10-20T14:59:54"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 4,
+    "n_posts": 201,
+    "median_pub_dt": "2015-10-21T13:43:57"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 119,
+    "median_pub_dt": "2015-10-21T09:14:07"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 27,
+    "median_pub_dt": "2015-10-21T13:49:20"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-10-21T21:52:23"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-10-21T08:45:36"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-10-21T11:42:47"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-10-21T14:24:31"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-10-21T11:04:22"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 250,
+    "median_pub_dt": "2015-10-21T08:34:32"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-10-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-21T13:20:57"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-10-22T00:00:00",
+    "n_articles": 3,
+    "n_posts": 83,
+    "median_pub_dt": "2015-10-22T16:00:29"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-10-22T00:00:00",
+    "n_articles": 2,
+    "n_posts": 25,
+    "median_pub_dt": "2015-10-22T21:47:05.500000"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-10-22T00:00:00",
+    "n_articles": 2,
+    "n_posts": 48,
+    "median_pub_dt": "2015-10-22T13:43:01.500000"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-10-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-10-22T17:56:11"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-10-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 49,
+    "median_pub_dt": "2015-10-22T16:13:20"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 74,
+    "median_pub_dt": "2015-10-22T10:30:20"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-10-22T17:55:01"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-10-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 27,
+    "median_pub_dt": "2015-10-22T06:43:06"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-10-23T00:00:00",
+    "n_articles": 2,
+    "n_posts": 350,
+    "median_pub_dt": "2015-10-23T12:40:18.500000"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-10-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-10-23T08:42:42"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-10-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 31,
+    "median_pub_dt": "2015-10-23T21:25:42"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-10-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-10-23T18:13:19"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-10-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 128,
+    "median_pub_dt": "2015-10-23T09:06:11"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-10-23T08:14:21"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-10-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-10-23T19:26:10"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-10-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 48,
+    "median_pub_dt": "2015-10-23T14:57:06"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-10-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 138,
+    "median_pub_dt": "2015-10-24T17:51:50"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-10-24T10:34:00"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-10-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 44,
+    "median_pub_dt": "2015-10-25T17:23:52"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-10-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 163,
+    "median_pub_dt": "2015-10-25T08:37:54"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-10-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 611,
+    "median_pub_dt": "2015-10-25T11:53:58"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-10-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 131,
+    "median_pub_dt": "2015-10-25T09:00:00"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-10-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 14,
+    "median_pub_dt": "2015-10-26T08:00:00"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-10-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 111,
+    "median_pub_dt": "2015-10-26T15:00:20"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 63,
+    "median_pub_dt": "2015-10-26T17:50:51"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 24,
+    "median_pub_dt": "2015-10-26T12:00:00"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 540,
+    "median_pub_dt": "2015-10-26T16:59:39"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-10-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-10-26T15:26:46"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-10-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-10-27T10:53:17"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-10-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 28,
+    "median_pub_dt": "2015-10-27T09:10:05"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-10-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-10-27T10:11:40"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-10-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 554,
+    "median_pub_dt": "2015-10-27T18:52:50"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 2,
+    "n_posts": 109,
+    "median_pub_dt": "2015-10-28T12:14:10"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 2,
+    "n_posts": 257,
+    "median_pub_dt": "2015-10-28T13:18:55"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-10-28T16:21:51"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-28T10:59:38"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-10-28T10:37:40"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 70,
+    "median_pub_dt": "2015-10-28T06:13:04"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 57,
+    "median_pub_dt": "2015-10-28T13:41:20"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 28,
+    "median_pub_dt": "2015-10-28T19:01:53"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 330,
+    "median_pub_dt": "2015-10-28T14:02:54"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-10-28T08:29:32"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-10-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 14,
+    "median_pub_dt": "2015-10-28T17:00:29"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-10-29T00:00:00",
+    "n_articles": 2,
+    "n_posts": 59,
+    "median_pub_dt": "2015-10-29T09:57:16.500000"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-10-29T00:00:00",
+    "n_articles": 2,
+    "n_posts": 115,
+    "median_pub_dt": "2015-10-29T12:53:35.500000"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-10-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 18,
+    "median_pub_dt": "2015-10-29T21:53:26"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-10-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 60,
+    "median_pub_dt": "2015-10-29T17:16:44"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-10-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 29,
+    "median_pub_dt": "2015-10-29T14:06:46"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-10-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-10-29T19:47:07"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-10-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 320,
+    "median_pub_dt": "2015-10-30T10:07:12"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-10-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-10-30T10:20:03"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-10-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-10-30T14:28:42"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-10-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 153,
+    "median_pub_dt": "2015-10-30T17:23:24"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-10-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 68,
+    "median_pub_dt": "2015-10-30T18:24:32"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-10-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 72,
+    "median_pub_dt": "2015-10-30T13:05:26"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-10-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 70,
+    "median_pub_dt": "2015-10-30T11:24:28"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-10-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 11,
+    "median_pub_dt": "2015-10-30T16:40:24"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-10-31T00:00:00",
+    "n_articles": 1,
+    "n_posts": 29,
+    "median_pub_dt": "2015-10-31T09:52:53"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-10-31T00:00:00",
+    "n_articles": 1,
+    "n_posts": 50,
+    "median_pub_dt": "2015-10-31T17:30:41"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-10-31T00:00:00",
+    "n_articles": 1,
+    "n_posts": 22,
+    "median_pub_dt": "2015-10-31T09:00:00"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 11,
+    "median_pub_dt": "2015-11-01T11:09:57"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-11-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-01T20:08:27"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-11-01T17:02:24"
+  },
+  {
+    "topic_id": 28,
+    "day": "2015-11-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 310,
+    "median_pub_dt": "2015-11-01T17:46:34"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-11-01T00:00:00",
+    "n_articles": 1,
+    "n_posts": 91,
+    "median_pub_dt": "2015-11-01T09:00:00"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-02T00:00:00",
+    "n_articles": 3,
+    "n_posts": 4,
+    "median_pub_dt": "2015-11-02T13:50:05"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-02T00:00:00",
+    "n_articles": 2,
+    "n_posts": 54,
+    "median_pub_dt": "2015-11-02T12:57:48"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-11-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-11-02T13:36:58"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-11-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 77,
+    "median_pub_dt": "2015-11-02T08:07:17"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-11-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 154,
+    "median_pub_dt": "2015-11-02T14:16:31"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-11-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 19,
+    "median_pub_dt": "2015-11-02T16:36:07"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-11-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 192,
+    "median_pub_dt": "2015-11-02T10:55:25"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-11-02T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-02T12:16:46"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-03T00:00:00",
+    "n_articles": 2,
+    "n_posts": 145,
+    "median_pub_dt": "2015-11-03T16:52:44.500000"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-11-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 35,
+    "median_pub_dt": "2015-11-03T08:04:51"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-11-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-11-03T10:42:10"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-11-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 46,
+    "median_pub_dt": "2015-11-03T11:28:43"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-11-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 70,
+    "median_pub_dt": "2015-11-03T16:11:30"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-11-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 316,
+    "median_pub_dt": "2015-11-03T15:37:06"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-11-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 260,
+    "median_pub_dt": "2015-11-03T17:11:00"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-11-03T19:09:50"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-11-03T00:00:00",
+    "n_articles": 1,
+    "n_posts": 17,
+    "median_pub_dt": "2015-11-03T12:17:14"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 2,
+    "n_posts": 261,
+    "median_pub_dt": "2015-11-04T11:22:19.500000"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 2,
+    "n_posts": 24,
+    "median_pub_dt": "2015-11-04T13:55:57.500000"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 2,
+    "n_posts": 23,
+    "median_pub_dt": "2015-11-04T13:47:48"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 63,
+    "median_pub_dt": "2015-11-04T12:36:09"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 18,
+    "median_pub_dt": "2015-11-04T12:47:58"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 16,
+    "median_pub_dt": "2015-11-04T17:57:20"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 33,
+    "median_pub_dt": "2015-11-04T16:53:05"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 57,
+    "median_pub_dt": "2015-11-04T07:41:46"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 35,
+    "median_pub_dt": "2015-11-04T16:00:00"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 29,
+    "median_pub_dt": "2015-11-04T21:42:59"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-11-04T17:39:52"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-04T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-11-04T14:35:41"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 4,
+    "n_posts": 61,
+    "median_pub_dt": "2015-11-05T15:12:23"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 2,
+    "n_posts": 100,
+    "median_pub_dt": "2015-11-05T20:04:36"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 80,
+    "median_pub_dt": "2015-11-05T08:33:27"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-11-05T10:48:10"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 89,
+    "median_pub_dt": "2015-11-05T21:09:03"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 13,
+    "median_pub_dt": "2015-11-05T14:08:38"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 374,
+    "median_pub_dt": "2015-11-05T18:01:54"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-05T05:30:00"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 12,
+    "median_pub_dt": "2015-11-05T11:09:11"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 18,
+    "median_pub_dt": "2015-11-05T05:30:00"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 11,
+    "median_pub_dt": "2015-11-05T18:21:51"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-11-05T15:35:32"
+  },
+  {
+    "topic_id": 28,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 316,
+    "median_pub_dt": "2015-11-05T14:37:25"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-05T00:00:00",
+    "n_articles": 1,
+    "n_posts": 757,
+    "median_pub_dt": "2015-11-05T11:24:16"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-11-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-11-06T08:15:15"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-11-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 187,
+    "median_pub_dt": "2015-11-06T16:32:25"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-11-06T20:41:15"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-11-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 19,
+    "median_pub_dt": "2015-11-06T07:30:11"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-11-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 26,
+    "median_pub_dt": "2015-11-06T19:35:39"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 175,
+    "median_pub_dt": "2015-11-06T08:51:19"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-06T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-11-06T17:00:21"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-07T00:00:00",
+    "n_articles": 3,
+    "n_posts": 35,
+    "median_pub_dt": "2015-11-07T17:44:26"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-11-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 67,
+    "median_pub_dt": "2015-11-07T08:16:39"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-11-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 44,
+    "median_pub_dt": "2015-11-07T16:19:51"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-11-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-11-07T12:00:00"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-11-07T00:00:00",
+    "n_articles": 1,
+    "n_posts": 177,
+    "median_pub_dt": "2015-11-07T11:39:36"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-11-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 184,
+    "median_pub_dt": "2015-11-08T09:26:31"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-11-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 55,
+    "median_pub_dt": "2015-11-08T17:22:23"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-11-08T00:00:00",
+    "n_articles": 1,
+    "n_posts": 237,
+    "median_pub_dt": "2015-11-08T18:56:16"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-11-09T00:00:00",
+    "n_articles": 2,
+    "n_posts": 1113,
+    "median_pub_dt": "2015-11-09T16:15:14"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-11-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-11-09T12:35:06"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-11-09T12:26:18"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-11-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 171,
+    "median_pub_dt": "2015-11-09T05:30:00"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-09T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-09T10:20:20"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-11-10T11:01:52"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 12,
+    "median_pub_dt": "2015-11-10T11:46:43"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 12,
+    "median_pub_dt": "2015-11-10T11:22:47"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 65,
+    "median_pub_dt": "2015-11-10T10:22:27"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-11-10T12:10:34"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 89,
+    "median_pub_dt": "2015-11-10T15:54:41"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 111,
+    "median_pub_dt": "2015-11-10T11:55:29"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 85,
+    "median_pub_dt": "2015-11-10T15:04:39"
+  },
+  {
+    "topic_id": 28,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 314,
+    "median_pub_dt": "2015-11-10T17:02:23"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 252,
+    "median_pub_dt": "2015-11-10T16:49:10"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-10T00:00:00",
+    "n_articles": 1,
+    "n_posts": 67,
+    "median_pub_dt": "2015-11-10T16:16:43"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 26,
+    "median_pub_dt": "2015-11-11T11:52:20"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 27,
+    "median_pub_dt": "2015-11-11T23:05:18"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 18,
+    "median_pub_dt": "2015-11-11T14:07:12"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 219,
+    "median_pub_dt": "2015-11-11T05:30:00"
+  },
+  {
+    "topic_id": 13,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 736,
+    "median_pub_dt": "2015-11-11T17:54:42"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 151,
+    "median_pub_dt": "2015-11-11T16:15:53"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 442,
+    "median_pub_dt": "2015-11-11T17:30:24"
+  },
+  {
+    "topic_id": 25,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-11-11T12:18:02"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 176,
+    "median_pub_dt": "2015-11-11T18:19:00"
+  },
+  {
+    "topic_id": 34,
+    "day": "2015-11-11T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-11T16:44:08"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-11-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-12T09:00:00"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-11-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 431,
+    "median_pub_dt": "2015-11-12T20:07:41"
+  },
+  {
+    "topic_id": 23,
+    "day": "2015-11-12T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-11-12T11:43:36"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-11-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 27,
+    "median_pub_dt": "2015-11-13T18:40:05"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-11-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-13T14:55:38"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 17,
+    "median_pub_dt": "2015-11-13T12:29:30"
+  },
+  {
+    "topic_id": 28,
+    "day": "2015-11-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 490,
+    "median_pub_dt": "2015-11-13T14:10:27"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 52,
+    "median_pub_dt": "2015-11-13T14:53:19"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-11-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 59,
+    "median_pub_dt": "2015-11-13T07:00:00"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-13T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-11-13T17:42:20"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-11-14T00:00:00",
+    "n_articles": 3,
+    "n_posts": 450,
+    "median_pub_dt": "2015-11-14T16:47:28"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-11-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 95,
+    "median_pub_dt": "2015-11-14T11:39:52"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-11-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 374,
+    "median_pub_dt": "2015-11-14T11:02:45"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-11-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-11-14T16:32:06"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-11-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-11-14T21:39:20"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-11-14T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-11-14T03:04:34"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-11-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 75,
+    "median_pub_dt": "2015-11-15T18:36:38"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 51,
+    "median_pub_dt": "2015-11-15T09:00:00"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-11-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-15T15:00:00"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-11-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 9,
+    "median_pub_dt": "2015-11-15T19:29:41"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-11-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 18,
+    "median_pub_dt": "2015-11-15T13:52:14"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-11-15T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-11-15T08:50:08"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-16T00:00:00",
+    "n_articles": 3,
+    "n_posts": 65,
+    "median_pub_dt": "2015-11-16T11:47:56"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-16T00:00:00",
+    "n_articles": 2,
+    "n_posts": 438,
+    "median_pub_dt": "2015-11-16T09:37:26"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-11-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-11-16T18:05:51"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-11-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 148,
+    "median_pub_dt": "2015-11-16T22:53:06"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-11-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 148,
+    "median_pub_dt": "2015-11-16T10:21:59"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-16T18:16:53"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-16T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-16T17:55:10"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 2,
+    "n_posts": 47,
+    "median_pub_dt": "2015-11-17T09:38:59"
+  },
+  {
+    "topic_id": 0,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 27,
+    "median_pub_dt": "2015-11-17T09:00:00"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-11-17T14:19:43"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 26,
+    "median_pub_dt": "2015-11-17T22:06:22"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 50,
+    "median_pub_dt": "2015-11-17T15:59:14"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 130,
+    "median_pub_dt": "2015-11-17T11:05:23"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 136,
+    "median_pub_dt": "2015-11-17T05:30:00"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 482,
+    "median_pub_dt": "2015-11-17T09:34:44"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 77,
+    "median_pub_dt": "2015-11-17T15:43:22"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-11-17T16:50:41"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-11-17T00:00:00",
+    "n_articles": 1,
+    "n_posts": 18,
+    "median_pub_dt": "2015-11-17T08:25:30"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 128,
+    "median_pub_dt": "2015-11-18T11:29:12"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 337,
+    "median_pub_dt": "2015-11-18T15:30:23"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 55,
+    "median_pub_dt": "2015-11-18T18:03:54"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-11-18T17:07:23"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 15,
+    "median_pub_dt": "2015-11-18T11:12:13"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-11-18T10:32:59"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 220,
+    "median_pub_dt": "2015-11-18T09:09:56"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-18T14:00:11"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 27,
+    "median_pub_dt": "2015-11-18T19:00:22"
+  },
+  {
+    "topic_id": 30,
+    "day": "2015-11-18T00:00:00",
+    "n_articles": 1,
+    "n_posts": 32,
+    "median_pub_dt": "2015-11-18T09:00:00"
+  },
+  {
+    "topic_id": 15,
+    "day": "2015-11-19T00:00:00",
+    "n_articles": 2,
+    "n_posts": 56,
+    "median_pub_dt": "2015-11-19T12:20:37.500000"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-11-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-11-19T10:32:54"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-11-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 47,
+    "median_pub_dt": "2015-11-19T16:07:32"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-11-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 21,
+    "median_pub_dt": "2015-11-19T10:05:30"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-11-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 308,
+    "median_pub_dt": "2015-11-19T17:48:18"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-11-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 220,
+    "median_pub_dt": "2015-11-19T13:59:27"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-19T00:00:00",
+    "n_articles": 1,
+    "n_posts": 14,
+    "median_pub_dt": "2015-11-19T18:30:06"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-11-20T00:00:00",
+    "n_articles": 2,
+    "n_posts": 5,
+    "median_pub_dt": "2015-11-20T13:56:30"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 16,
+    "median_pub_dt": "2015-11-20T16:24:00"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-11-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 545,
+    "median_pub_dt": "2015-11-20T16:08:09"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-11-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-11-20T12:27:14"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-11-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-20T17:30:43"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 39,
+    "median_pub_dt": "2015-11-20T05:30:00"
+  },
+  {
+    "topic_id": 33,
+    "day": "2015-11-20T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-20T06:00:00"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-11-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 34,
+    "median_pub_dt": "2015-11-21T23:39:42"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 92,
+    "median_pub_dt": "2015-11-21T17:49:04"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-11-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 175,
+    "median_pub_dt": "2015-11-21T12:51:26"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-11-21T00:00:00",
+    "n_articles": 1,
+    "n_posts": 40,
+    "median_pub_dt": "2015-11-21T13:01:37"
+  },
+  {
+    "topic_id": 4,
+    "day": "2015-11-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 236,
+    "median_pub_dt": "2015-11-22T10:01:25"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-22T16:25:52"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-11-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 56,
+    "median_pub_dt": "2015-11-22T08:30:52"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-11-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 74,
+    "median_pub_dt": "2015-11-22T12:00:00"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-11-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-11-22T15:25:03"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-11-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 20,
+    "median_pub_dt": "2015-11-22T18:18:14"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-22T00:00:00",
+    "n_articles": 1,
+    "n_posts": 20,
+    "median_pub_dt": "2015-11-22T17:12:20"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 2,
+    "n_posts": 116,
+    "median_pub_dt": "2015-11-23T15:59:24.500000"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 2,
+    "n_posts": 79,
+    "median_pub_dt": "2015-11-23T07:56:16.500000"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 4,
+    "median_pub_dt": "2015-11-23T09:28:37"
+  },
+  {
+    "topic_id": 5,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 22,
+    "median_pub_dt": "2015-11-23T17:22:39"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-23T10:12:08"
+  },
+  {
+    "topic_id": 11,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-23T14:40:50"
+  },
+  {
+    "topic_id": 16,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-11-23T13:00:13"
+  },
+  {
+    "topic_id": 21,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 154,
+    "median_pub_dt": "2015-11-23T14:07:54"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 593,
+    "median_pub_dt": "2015-11-23T14:19:50"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-23T00:00:00",
+    "n_articles": 1,
+    "n_posts": 7,
+    "median_pub_dt": "2015-11-23T18:33:22"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-24T00:00:00",
+    "n_articles": 2,
+    "n_posts": 901,
+    "median_pub_dt": "2015-11-24T12:51:15.500000"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-11-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-11-24T12:19:26"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-11-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 19,
+    "median_pub_dt": "2015-11-24T17:21:31"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-11-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-24T15:09:45"
+  },
+  {
+    "topic_id": 28,
+    "day": "2015-11-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 171,
+    "median_pub_dt": "2015-11-24T05:30:00"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 56,
+    "median_pub_dt": "2015-11-24T16:00:12"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-24T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-24T18:07:16"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-11-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 59,
+    "median_pub_dt": "2015-11-25T14:42:52"
+  },
+  {
+    "topic_id": 3,
+    "day": "2015-11-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 75,
+    "median_pub_dt": "2015-11-25T10:37:01"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 3,
+    "median_pub_dt": "2015-11-25T09:58:21"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-11-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-25T16:16:50"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-11-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 755,
+    "median_pub_dt": "2015-11-25T16:40:43"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-25T00:00:00",
+    "n_articles": 1,
+    "n_posts": 45,
+    "median_pub_dt": "2015-11-25T11:32:02"
+  },
+  {
+    "topic_id": 6,
+    "day": "2015-11-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 295,
+    "median_pub_dt": "2015-11-26T23:12:38"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 238,
+    "median_pub_dt": "2015-11-26T15:39:48"
+  },
+  {
+    "topic_id": 10,
+    "day": "2015-11-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 16,
+    "median_pub_dt": "2015-11-26T17:05:22"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 174,
+    "median_pub_dt": "2015-11-26T08:44:46"
+  },
+  {
+    "topic_id": 22,
+    "day": "2015-11-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-11-26T18:27:16"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-26T00:00:00",
+    "n_articles": 1,
+    "n_posts": 172,
+    "median_pub_dt": "2015-11-26T18:57:58"
+  },
+  {
+    "topic_id": 31,
+    "day": "2015-11-27T00:00:00",
+    "n_articles": 2,
+    "n_posts": 7,
+    "median_pub_dt": "2015-11-27T11:52:50"
+  },
+  {
+    "topic_id": 1,
+    "day": "2015-11-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 10,
+    "median_pub_dt": "2015-11-27T14:31:00"
+  },
+  {
+    "topic_id": 2,
+    "day": "2015-11-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 20,
+    "median_pub_dt": "2015-11-27T12:59:08"
+  },
+  {
+    "topic_id": 7,
+    "day": "2015-11-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-11-27T19:31:17"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-11-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 5,
+    "median_pub_dt": "2015-11-27T09:45:14"
+  },
+  {
+    "topic_id": 19,
+    "day": "2015-11-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 8,
+    "median_pub_dt": "2015-11-27T07:40:25"
+  },
+  {
+    "topic_id": 26,
+    "day": "2015-11-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 199,
+    "median_pub_dt": "2015-11-27T09:00:00"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-27T00:00:00",
+    "n_articles": 1,
+    "n_posts": 12,
+    "median_pub_dt": "2015-11-27T18:01:20"
+  },
+  {
+    "topic_id": 8,
+    "day": "2015-11-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 89,
+    "median_pub_dt": "2015-11-28T17:04:05"
+  },
+  {
+    "topic_id": 9,
+    "day": "2015-11-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 16,
+    "median_pub_dt": "2015-11-28T17:22:57"
+  },
+  {
+    "topic_id": 20,
+    "day": "2015-11-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 12,
+    "median_pub_dt": "2015-11-28T14:00:18"
+  },
+  {
+    "topic_id": 27,
+    "day": "2015-11-28T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-28T17:19:00"
+  },
+  {
+    "topic_id": 12,
+    "day": "2015-11-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 6,
+    "median_pub_dt": "2015-11-29T10:00:00"
+  },
+  {
+    "topic_id": 32,
+    "day": "2015-11-29T00:00:00",
+    "n_articles": 1,
+    "n_posts": 47,
+    "median_pub_dt": "2015-11-29T17:43:09"
+  },
+  {
+    "topic_id": 14,
+    "day": "2015-11-30T00:00:00",
+    "n_articles": 2,
+    "n_posts": 17,
+    "median_pub_dt": "2015-11-30T13:23:15"
+  },
+  {
+    "topic_id": 17,
+    "day": "2015-11-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 23,
+    "median_pub_dt": "2015-11-30T13:57:04"
+  },
+  {
+    "topic_id": 18,
+    "day": "2015-11-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 142,
+    "median_pub_dt": "2015-11-30T08:42:46"
+  },
+  {
+    "topic_id": 24,
+    "day": "2015-11-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 1,
+    "median_pub_dt": "2015-11-30T11:12:34"
+  },
+  {
+    "topic_id": 29,
+    "day": "2015-11-30T00:00:00",
+    "n_articles": 1,
+    "n_posts": 2,
+    "median_pub_dt": "2015-11-30T16:36:27"
+  }
+]

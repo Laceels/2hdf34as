@@ -1,0 +1,4882 @@
+[
+  {
+    "topic_id": 1,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "web",
+    "score_sum": -1.85,
+    "total_magnitude": 5.55,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "web",
+    "score_sum": 0.6,
+    "total_magnitude": 0.95,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "web",
+    "score_sum": -16.65,
+    "total_magnitude": 71.35,
+    "n_posts": 133
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "international",
+    "score_sum": -2.45,
+    "total_magnitude": 8.95,
+    "n_posts": 15
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "kommentare",
+    "score_sum": -0.2,
+    "total_magnitude": 2.5,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "sport",
+    "score_sum": -0.75,
+    "total_magnitude": 9.8,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "sport",
+    "score_sum": 5.7,
+    "total_magnitude": 20.55,
+    "n_posts": 40
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "web",
+    "score_sum": 0.1,
+    "total_magnitude": 15.85,
+    "n_posts": 30
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "international",
+    "score_sum": -1.15,
+    "total_magnitude": 6.75,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "inland",
+    "score_sum": -12.95,
+    "total_magnitude": 27.65,
+    "n_posts": 44
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -7.25,
+    "total_magnitude": 16.15,
+    "n_posts": 29
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "international",
+    "score_sum": -7.4,
+    "total_magnitude": 16.75,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "international",
+    "score_sum": -2.8,
+    "total_magnitude": 4.15,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.75,
+    "total_magnitude": 1.75,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -2.0,
+    "total_magnitude": 1.95,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "inland",
+    "score_sum": -15.95,
+    "total_magnitude": 26.55,
+    "n_posts": 43
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -16.05,
+    "total_magnitude": 25.3,
+    "n_posts": 41
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "international",
+    "score_sum": -11.5,
+    "total_magnitude": 21.25,
+    "n_posts": 36
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "inland",
+    "score_sum": -13.15,
+    "total_magnitude": 16.0,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "inland",
+    "score_sum": -28.45,
+    "total_magnitude": 71.45,
+    "n_posts": 119
+  },
+  {
+    "topic_id": 25,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "etat",
+    "score_sum": -4.2,
+    "total_magnitude": 4.95,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "karriere",
+    "score_sum": -44.95,
+    "total_magnitude": 86.35,
+    "n_posts": 140
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "kolumnen",
+    "score_sum": -31.15,
+    "total_magnitude": 65.85,
+    "n_posts": 100
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -0.85,
+    "total_magnitude": 8.8,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "panorama",
+    "score_sum": -7.9,
+    "total_magnitude": 28.2,
+    "n_posts": 45
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -8.95,
+    "total_magnitude": 11.85,
+    "n_posts": 19
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "kolumnen",
+    "score_sum": -3.85,
+    "total_magnitude": 14.05,
+    "n_posts": 23
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.95,
+    "total_magnitude": 5.15,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.2,
+    "total_magnitude": 9.25,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-08-31T00:00:00",
+    "category": "etat",
+    "score_sum": 7.2,
+    "total_magnitude": 47.05,
+    "n_posts": 99
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "web",
+    "score_sum": -0.0,
+    "total_magnitude": 4.3,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -0.2,
+    "total_magnitude": 2.8,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "web",
+    "score_sum": -3.8,
+    "total_magnitude": 5.1,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "web",
+    "score_sum": -1.3,
+    "total_magnitude": 3.45,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "kommentare",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -1.35,
+    "total_magnitude": 4.45,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -1.2,
+    "total_magnitude": 1.35,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "sport",
+    "score_sum": 15.4,
+    "total_magnitude": 125.45,
+    "n_posts": 223
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "sport",
+    "score_sum": 2.75,
+    "total_magnitude": 8.2,
+    "n_posts": 16
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "web",
+    "score_sum": -2.95,
+    "total_magnitude": 11.95,
+    "n_posts": 24
+  },
+  {
+    "topic_id": 9,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -0.6,
+    "total_magnitude": 0.15,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "international",
+    "score_sum": -7.85,
+    "total_magnitude": 16.0,
+    "n_posts": 26
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "kda",
+    "score_sum": -34.15,
+    "total_magnitude": 71.05,
+    "n_posts": 115
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "kultur",
+    "score_sum": -5.6,
+    "total_magnitude": 11.45,
+    "n_posts": 19
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "web",
+    "score_sum": -108.2,
+    "total_magnitude": 198.15,
+    "n_posts": 341
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "international",
+    "score_sum": -3.0,
+    "total_magnitude": 4.75,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "kommentare",
+    "score_sum": -1.0,
+    "total_magnitude": 1.35,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "panorama",
+    "score_sum": -25.05,
+    "total_magnitude": 35.95,
+    "n_posts": 61
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.4,
+    "total_magnitude": 0.7,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 0.4,
+    "total_magnitude": 1.3,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "inland",
+    "score_sum": 0.6,
+    "total_magnitude": 1.9,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "international",
+    "score_sum": -1.0,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 21,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -14.0,
+    "total_magnitude": 41.15,
+    "n_posts": 67
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "inland",
+    "score_sum": -0.8,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -14.95,
+    "total_magnitude": 19.75,
+    "n_posts": 30
+  },
+  {
+    "topic_id": 23,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "panorama",
+    "score_sum": -7.0,
+    "total_magnitude": 11.95,
+    "n_posts": 23
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "inland",
+    "score_sum": -4.65,
+    "total_magnitude": 17.35,
+    "n_posts": 33
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "sport",
+    "score_sum": 3.4,
+    "total_magnitude": 25.2,
+    "n_posts": 46
+  },
+  {
+    "topic_id": 25,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "etat",
+    "score_sum": -1.4,
+    "total_magnitude": 3.5,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "international",
+    "score_sum": -4.35,
+    "total_magnitude": 7.4,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "karriere",
+    "score_sum": -4.4,
+    "total_magnitude": 10.0,
+    "n_posts": 16
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "kolumnen",
+    "score_sum": 0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "panorama",
+    "score_sum": -20.55,
+    "total_magnitude": 39.0,
+    "n_posts": 62
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 0.4,
+    "total_magnitude": 1.8,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "kda",
+    "score_sum": -6.65,
+    "total_magnitude": 14.85,
+    "n_posts": 21
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "panorama",
+    "score_sum": -177.9,
+    "total_magnitude": 361.8,
+    "n_posts": 582
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -10.1,
+    "total_magnitude": 26.45,
+    "n_posts": 47
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "immobilien",
+    "score_sum": 0.85,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "web",
+    "score_sum": -0.4,
+    "total_magnitude": 1.9,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -1.25,
+    "total_magnitude": 20.35,
+    "n_posts": 37
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.6,
+    "total_magnitude": 2.55,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "etat",
+    "score_sum": 0.05,
+    "total_magnitude": 1.65,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.45,
+    "total_magnitude": 2.45,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-09-07T00:00:00",
+    "category": "wochenschau",
+    "score_sum": -0.6,
+    "total_magnitude": 4.5,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "reisen",
+    "score_sum": 1.85,
+    "total_magnitude": 3.15,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "web",
+    "score_sum": -4.15,
+    "total_magnitude": 14.3,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "sport",
+    "score_sum": 7.55,
+    "total_magnitude": 35.3,
+    "n_posts": 67
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "sport",
+    "score_sum": -1.8,
+    "total_magnitude": 13.95,
+    "n_posts": 26
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "web",
+    "score_sum": -0.1,
+    "total_magnitude": 18.7,
+    "n_posts": 34
+  },
+  {
+    "topic_id": 9,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "web",
+    "score_sum": -0.6,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "kda",
+    "score_sum": -3.0,
+    "total_magnitude": 3.35,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.4,
+    "total_magnitude": 0.5,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "web",
+    "score_sum": -2.8,
+    "total_magnitude": 3.45,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "inland",
+    "score_sum": -3.65,
+    "total_magnitude": 22.45,
+    "n_posts": 41
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "karriere",
+    "score_sum": -6.75,
+    "total_magnitude": 23.5,
+    "n_posts": 43
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.55,
+    "total_magnitude": 68.35,
+    "n_posts": 149
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -35.15,
+    "total_magnitude": 92.9,
+    "n_posts": 155
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "international",
+    "score_sum": -1.1,
+    "total_magnitude": 3.25,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "panorama",
+    "score_sum": -7.15,
+    "total_magnitude": 10.5,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.4,
+    "total_magnitude": 2.75,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -7.35,
+    "total_magnitude": 20.6,
+    "n_posts": 34
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "international",
+    "score_sum": -10.45,
+    "total_magnitude": 17.4,
+    "n_posts": 32
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "etat",
+    "score_sum": -11.7,
+    "total_magnitude": 18.2,
+    "n_posts": 29
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "inland",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "international",
+    "score_sum": -0.4,
+    "total_magnitude": 0.5,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "web",
+    "score_sum": -3.2,
+    "total_magnitude": 3.55,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 23,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "panorama",
+    "score_sum": -1.6,
+    "total_magnitude": 1.7,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "inland",
+    "score_sum": -68.4,
+    "total_magnitude": 122.35,
+    "n_posts": 198
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "international",
+    "score_sum": 0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "etat",
+    "score_sum": 0.1,
+    "total_magnitude": 4.85,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "immobilien",
+    "score_sum": 1.05,
+    "total_magnitude": 1.55,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "panorama",
+    "score_sum": 0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -1.8,
+    "total_magnitude": 8.5,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "kommentare",
+    "score_sum": -21.6,
+    "total_magnitude": 35.55,
+    "n_posts": 53
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "panorama",
+    "score_sum": 2.8,
+    "total_magnitude": 5.0,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "international",
+    "score_sum": -8.95,
+    "total_magnitude": 26.65,
+    "n_posts": 42
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "kda",
+    "score_sum": -0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "kommentare",
+    "score_sum": -55.15,
+    "total_magnitude": 94.25,
+    "n_posts": 142
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "international",
+    "score_sum": -1.0,
+    "total_magnitude": 1.85,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": 0.75,
+    "total_magnitude": 3.25,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -56.4,
+    "total_magnitude": 94.05,
+    "n_posts": 147
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "etat",
+    "score_sum": 2.55,
+    "total_magnitude": 6.35,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.6,
+    "total_magnitude": 2.6,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 0.4,
+    "total_magnitude": 0.95,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "panorama",
+    "score_sum": 0.1,
+    "total_magnitude": 2.9,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "etat",
+    "score_sum": -1.1,
+    "total_magnitude": 4.8,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-09-14T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -0.7,
+    "total_magnitude": 8.6,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 0,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -60.9,
+    "total_magnitude": 111.5,
+    "n_posts": 182
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "reisen",
+    "score_sum": 1.25,
+    "total_magnitude": 8.45,
+    "n_posts": 15
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "web",
+    "score_sum": -4.5,
+    "total_magnitude": 11.35,
+    "n_posts": 21
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "web",
+    "score_sum": 9.5,
+    "total_magnitude": 31.8,
+    "n_posts": 56
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": 0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "international",
+    "score_sum": -0.55,
+    "total_magnitude": 7.85,
+    "n_posts": 15
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "sport",
+    "score_sum": 0.4,
+    "total_magnitude": 34.6,
+    "n_posts": 60
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "sport",
+    "score_sum": -30.45,
+    "total_magnitude": 92.8,
+    "n_posts": 187
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "web",
+    "score_sum": -1.8,
+    "total_magnitude": 5.4,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 9,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "web",
+    "score_sum": -61.25,
+    "total_magnitude": 133.75,
+    "n_posts": 221
+  },
+  {
+    "topic_id": 10,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "web",
+    "score_sum": -3.7,
+    "total_magnitude": 5.85,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "international",
+    "score_sum": -2.1,
+    "total_magnitude": 8.45,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "kda",
+    "score_sum": -1.15,
+    "total_magnitude": 2.4,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "inland",
+    "score_sum": -0.35,
+    "total_magnitude": 1.4,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "karriere",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "kultur",
+    "score_sum": -1.0,
+    "total_magnitude": 1.0,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "international",
+    "score_sum": -0.05,
+    "total_magnitude": 2.8,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -1.4,
+    "total_magnitude": 2.35,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.25,
+    "total_magnitude": 3.2,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -10.55,
+    "total_magnitude": 28.2,
+    "n_posts": 51
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "inland",
+    "score_sum": -0.8,
+    "total_magnitude": 2.0,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -10.15,
+    "total_magnitude": 16.05,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "alltag",
+    "score_sum": -9.85,
+    "total_magnitude": 20.45,
+    "n_posts": 33
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "international",
+    "score_sum": -38.45,
+    "total_magnitude": 76.05,
+    "n_posts": 135
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "panorama",
+    "score_sum": -7.85,
+    "total_magnitude": 9.9,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 23,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "panorama",
+    "score_sum": -18.05,
+    "total_magnitude": 28.2,
+    "n_posts": 49
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "inland",
+    "score_sum": -4.95,
+    "total_magnitude": 8.05,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 25,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "web",
+    "score_sum": 2.6,
+    "total_magnitude": 14.55,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "international",
+    "score_sum": 0.4,
+    "total_magnitude": 1.1,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "panorama",
+    "score_sum": -2.2,
+    "total_magnitude": 3.8,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "lifestyle",
+    "score_sum": 1.35,
+    "total_magnitude": 2.0,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 1.8,
+    "total_magnitude": 5.25,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "kolumnen",
+    "score_sum": -3.3,
+    "total_magnitude": 10.3,
+    "n_posts": 19
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "international",
+    "score_sum": -0.2,
+    "total_magnitude": 0.95,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "kolumnen",
+    "score_sum": -17.45,
+    "total_magnitude": 34.5,
+    "n_posts": 53
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "international",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -2.75,
+    "total_magnitude": 6.5,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "immobilien",
+    "score_sum": -0.8,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -1.0,
+    "total_magnitude": 1.3,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "etat",
+    "score_sum": 0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "kultur",
+    "score_sum": 4.05,
+    "total_magnitude": 7.4,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -1.75,
+    "total_magnitude": 11.45,
+    "n_posts": 20
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "etat",
+    "score_sum": -0.8,
+    "total_magnitude": 2.3,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "etat",
+    "score_sum": 2.35,
+    "total_magnitude": 14.5,
+    "n_posts": 23
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-09-21T00:00:00",
+    "category": "kultur",
+    "score_sum": -2.05,
+    "total_magnitude": 7.1,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 0,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "sport",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 0,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.4,
+    "total_magnitude": 5.4,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "web",
+    "score_sum": -2.5,
+    "total_magnitude": 25.9,
+    "n_posts": 49
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "web",
+    "score_sum": -5.9,
+    "total_magnitude": 24.4,
+    "n_posts": 42
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "international",
+    "score_sum": -1.0,
+    "total_magnitude": 0.95,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "kommentare",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "sport",
+    "score_sum": 18.25,
+    "total_magnitude": 80.15,
+    "n_posts": 144
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "sport",
+    "score_sum": 0.95,
+    "total_magnitude": 6.65,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 9,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "web",
+    "score_sum": -5.55,
+    "total_magnitude": 18.65,
+    "n_posts": 34
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "international",
+    "score_sum": -46.2,
+    "total_magnitude": 72.25,
+    "n_posts": 120
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "kda",
+    "score_sum": -0.95,
+    "total_magnitude": 1.8,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "familie",
+    "score_sum": -0.45,
+    "total_magnitude": 7.7,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "inland",
+    "score_sum": -11.75,
+    "total_magnitude": 35.5,
+    "n_posts": 60
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.45,
+    "total_magnitude": 0.65,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "international",
+    "score_sum": -7.35,
+    "total_magnitude": 11.25,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "panorama",
+    "score_sum": -2.4,
+    "total_magnitude": 2.4,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.95,
+    "total_magnitude": 1.45,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "gesundheit",
+    "score_sum": 0.0,
+    "total_magnitude": 1.3,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "lifestyle",
+    "score_sum": 3.85,
+    "total_magnitude": 30.85,
+    "n_posts": 56
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "web",
+    "score_sum": -3.0,
+    "total_magnitude": 6.8,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "international",
+    "score_sum": -17.65,
+    "total_magnitude": 31.1,
+    "n_posts": 54
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.35,
+    "total_magnitude": 6.85,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "sport",
+    "score_sum": -1.8,
+    "total_magnitude": 3.4,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "web",
+    "score_sum": -0.9,
+    "total_magnitude": 3.35,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.15,
+    "total_magnitude": 1.1,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 23,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "panorama",
+    "score_sum": -3.8,
+    "total_magnitude": 4.15,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "immobilien",
+    "score_sum": -0.4,
+    "total_magnitude": 1.35,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "inland",
+    "score_sum": -92.15,
+    "total_magnitude": 192.15,
+    "n_posts": 326
+  },
+  {
+    "topic_id": 25,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "etat",
+    "score_sum": -67.25,
+    "total_magnitude": 187.35,
+    "n_posts": 313
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "inland",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "panorama",
+    "score_sum": -1.25,
+    "total_magnitude": 3.7,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "familie",
+    "score_sum": 0.4,
+    "total_magnitude": 1.85,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "lifestyle",
+    "score_sum": 0.3,
+    "total_magnitude": 4.3,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -0.95,
+    "total_magnitude": 14.4,
+    "n_posts": 27
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "inland",
+    "score_sum": -1.45,
+    "total_magnitude": 7.8,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "kolumnen",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "kommentare",
+    "score_sum": -42.75,
+    "total_magnitude": 100.3,
+    "n_posts": 153
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "international",
+    "score_sum": -4.05,
+    "total_magnitude": 8.25,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -0.8,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "panorama",
+    "score_sum": -2.1,
+    "total_magnitude": 6.05,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "etat",
+    "score_sum": -4.45,
+    "total_magnitude": 17.9,
+    "n_posts": 32
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-09-28T00:00:00",
+    "category": "kultur",
+    "score_sum": 1.05,
+    "total_magnitude": 1.05,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 0,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -17.15,
+    "total_magnitude": 31.9,
+    "n_posts": 54
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "web",
+    "score_sum": 0.35,
+    "total_magnitude": 11.6,
+    "n_posts": 22
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "web",
+    "score_sum": -7.65,
+    "total_magnitude": 32.3,
+    "n_posts": 62
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "web",
+    "score_sum": -1.05,
+    "total_magnitude": 8.15,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "international",
+    "score_sum": -4.75,
+    "total_magnitude": 8.25,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "kommentare",
+    "score_sum": 0.45,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "sport",
+    "score_sum": 0.2,
+    "total_magnitude": 5.35,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "sport",
+    "score_sum": -0.75,
+    "total_magnitude": 6.25,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "web",
+    "score_sum": -8.05,
+    "total_magnitude": 12.65,
+    "n_posts": 22
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "international",
+    "score_sum": -87.35,
+    "total_magnitude": 164.5,
+    "n_posts": 274
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "inland",
+    "score_sum": -24.3,
+    "total_magnitude": 42.9,
+    "n_posts": 68
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "karriere",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.2,
+    "total_magnitude": 0.4,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "international",
+    "score_sum": -7.0,
+    "total_magnitude": 14.7,
+    "n_posts": 25
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -21.2,
+    "total_magnitude": 37.1,
+    "n_posts": 64
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -5.4,
+    "total_magnitude": 14.85,
+    "n_posts": 27
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 2.05,
+    "total_magnitude": 10.55,
+    "n_posts": 21
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "international",
+    "score_sum": -13.0,
+    "total_magnitude": 28.3,
+    "n_posts": 48
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "inland",
+    "score_sum": -1.0,
+    "total_magnitude": 3.45,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "international",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "web",
+    "score_sum": -2.25,
+    "total_magnitude": 5.3,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -29.4,
+    "total_magnitude": 42.25,
+    "n_posts": 72
+  },
+  {
+    "topic_id": 23,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.6,
+    "total_magnitude": 2.75,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "inland",
+    "score_sum": -18.0,
+    "total_magnitude": 67.2,
+    "n_posts": 129
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "international",
+    "score_sum": -1.2,
+    "total_magnitude": 3.5,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 25,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "etat",
+    "score_sum": -18.15,
+    "total_magnitude": 22.95,
+    "n_posts": 38
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.8,
+    "total_magnitude": 4.1,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "familie",
+    "score_sum": -1.0,
+    "total_magnitude": 3.2,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 0.0,
+    "total_magnitude": 0.95,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "inland",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "international",
+    "score_sum": -41.1,
+    "total_magnitude": 182.7,
+    "n_posts": 308
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "panorama",
+    "score_sum": -2.9,
+    "total_magnitude": 20.0,
+    "n_posts": 35
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "international",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -1.15,
+    "total_magnitude": 2.0,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -4.55,
+    "total_magnitude": 25.7,
+    "n_posts": 44
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.45,
+    "total_magnitude": 2.95,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "etat",
+    "score_sum": -1.25,
+    "total_magnitude": 4.6,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-10-05T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.85,
+    "total_magnitude": 1.5,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 0,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "automobil",
+    "score_sum": -1.2,
+    "total_magnitude": 1.9,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 0,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "web",
+    "score_sum": -29.0,
+    "total_magnitude": 97.15,
+    "n_posts": 180
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "web",
+    "score_sum": -2.85,
+    "total_magnitude": 30.5,
+    "n_posts": 60
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "web",
+    "score_sum": -1.55,
+    "total_magnitude": 21.15,
+    "n_posts": 41
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "international",
+    "score_sum": 0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "panorama",
+    "score_sum": 0.85,
+    "total_magnitude": 3.4,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "sport",
+    "score_sum": 2.85,
+    "total_magnitude": 13.05,
+    "n_posts": 24
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "sport",
+    "score_sum": -4.55,
+    "total_magnitude": 19.75,
+    "n_posts": 37
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "web",
+    "score_sum": -16.0,
+    "total_magnitude": 56.1,
+    "n_posts": 96
+  },
+  {
+    "topic_id": 10,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "international",
+    "score_sum": -3.55,
+    "total_magnitude": 9.65,
+    "n_posts": 16
+  },
+  {
+    "topic_id": 10,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "web",
+    "score_sum": 0.45,
+    "total_magnitude": 0.65,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "international",
+    "score_sum": -2.6,
+    "total_magnitude": 3.25,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "familie",
+    "score_sum": 2.65,
+    "total_magnitude": 17.65,
+    "n_posts": 31
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "inland",
+    "score_sum": -0.8,
+    "total_magnitude": 0.95,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "karriere",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "international",
+    "score_sum": -5.35,
+    "total_magnitude": 9.0,
+    "n_posts": 15
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -1.2,
+    "total_magnitude": 2.85,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -9.65,
+    "total_magnitude": 25.5,
+    "n_posts": 43
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -4.4,
+    "total_magnitude": 5.85,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "international",
+    "score_sum": -2.95,
+    "total_magnitude": 7.0,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "lifestyle",
+    "score_sum": 0.25,
+    "total_magnitude": 2.7,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "inland",
+    "score_sum": -136.55,
+    "total_magnitude": 295.25,
+    "n_posts": 481
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "web",
+    "score_sum": -1.4,
+    "total_magnitude": 1.8,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "inland",
+    "score_sum": -1.2,
+    "total_magnitude": 2.3,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "panorama",
+    "score_sum": -5.35,
+    "total_magnitude": 12.55,
+    "n_posts": 21
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "sport",
+    "score_sum": -6.6,
+    "total_magnitude": 10.05,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 23,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "panorama",
+    "score_sum": -4.8,
+    "total_magnitude": 7.4,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "inland",
+    "score_sum": -51.5,
+    "total_magnitude": 146.85,
+    "n_posts": 254
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "international",
+    "score_sum": -1.0,
+    "total_magnitude": 1.7,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": 0.0,
+    "total_magnitude": 1.05,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 25,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "etat",
+    "score_sum": 0.6,
+    "total_magnitude": 1.55,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "panorama",
+    "score_sum": -12.95,
+    "total_magnitude": 29.85,
+    "n_posts": 50
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "international",
+    "score_sum": -12.05,
+    "total_magnitude": 27.2,
+    "n_posts": 42
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "panorama",
+    "score_sum": 0.4,
+    "total_magnitude": 4.8,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "international",
+    "score_sum": -0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "immobilien",
+    "score_sum": -3.6,
+    "total_magnitude": 4.9,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.6,
+    "total_magnitude": 0.5,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "etat",
+    "score_sum": 3.25,
+    "total_magnitude": 5.95,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.9,
+    "total_magnitude": 4.7,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -0.15,
+    "total_magnitude": 3.95,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "etat",
+    "score_sum": 0.05,
+    "total_magnitude": 0.95,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-10-12T00:00:00",
+    "category": "kultur",
+    "score_sum": -2.55,
+    "total_magnitude": 7.7,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "web",
+    "score_sum": -4.0,
+    "total_magnitude": 9.95,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "web",
+    "score_sum": -2.85,
+    "total_magnitude": 18.6,
+    "n_posts": 32
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "web",
+    "score_sum": -0.95,
+    "total_magnitude": 24.6,
+    "n_posts": 45
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -2.85,
+    "total_magnitude": 5.75,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "panorama",
+    "score_sum": -1.6,
+    "total_magnitude": 4.25,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "sport",
+    "score_sum": -4.7,
+    "total_magnitude": 26.9,
+    "n_posts": 48
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "sport",
+    "score_sum": -37.1,
+    "total_magnitude": 99.75,
+    "n_posts": 176
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "web",
+    "score_sum": -12.45,
+    "total_magnitude": 27.25,
+    "n_posts": 46
+  },
+  {
+    "topic_id": 9,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.55,
+    "total_magnitude": 4.3,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 10,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "etat",
+    "score_sum": -1.7,
+    "total_magnitude": 11.1,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 10,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "web",
+    "score_sum": 0.45,
+    "total_magnitude": 0.65,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "familie",
+    "score_sum": 1.2,
+    "total_magnitude": 1.85,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "inland",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "international",
+    "score_sum": 0.65,
+    "total_magnitude": 1.0,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "kolumnen",
+    "score_sum": -0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "international",
+    "score_sum": -3.4,
+    "total_magnitude": 4.4,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "gesundheit",
+    "score_sum": 0.0,
+    "total_magnitude": 2.6,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "gesundheit",
+    "score_sum": 0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.8,
+    "total_magnitude": 1.1,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -3.4,
+    "total_magnitude": 4.0,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "international",
+    "score_sum": -14.2,
+    "total_magnitude": 25.75,
+    "n_posts": 42
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -2.75,
+    "total_magnitude": 12.25,
+    "n_posts": 22
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "lifestyle",
+    "score_sum": 0.45,
+    "total_magnitude": 4.05,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "inland",
+    "score_sum": -2.6,
+    "total_magnitude": 4.15,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -1.65,
+    "total_magnitude": 3.65,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "web",
+    "score_sum": -9.55,
+    "total_magnitude": 22.05,
+    "n_posts": 42
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "inland",
+    "score_sum": -46.8,
+    "total_magnitude": 55.1,
+    "n_posts": 94
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "international",
+    "score_sum": -24.4,
+    "total_magnitude": 46.35,
+    "n_posts": 81
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "panorama",
+    "score_sum": -1.6,
+    "total_magnitude": 2.2,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "politik",
+    "score_sum": -4.2,
+    "total_magnitude": 5.85,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 23,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "panorama",
+    "score_sum": -23.8,
+    "total_magnitude": 53.05,
+    "n_posts": 90
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "inland",
+    "score_sum": -16.35,
+    "total_magnitude": 32.15,
+    "n_posts": 55
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "kda",
+    "score_sum": -13.85,
+    "total_magnitude": 23.15,
+    "n_posts": 38
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "panorama",
+    "score_sum": -6.95,
+    "total_magnitude": 17.35,
+    "n_posts": 32
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "panorama",
+    "score_sum": -32.6,
+    "total_magnitude": 47.55,
+    "n_posts": 76
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 1.5,
+    "total_magnitude": 7.65,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "inland",
+    "score_sum": -0.65,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "international",
+    "score_sum": -1.6,
+    "total_magnitude": 1.5,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -2.4,
+    "total_magnitude": 2.55,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "international",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -3.3,
+    "total_magnitude": 5.65,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "kommentare",
+    "score_sum": 0.25,
+    "total_magnitude": 0.65,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -110.15,
+    "total_magnitude": 182.05,
+    "n_posts": 309
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "etat",
+    "score_sum": 0.8,
+    "total_magnitude": 0.95,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.95,
+    "total_magnitude": 15.45,
+    "n_posts": 25
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "lifestyle",
+    "score_sum": 0.85,
+    "total_magnitude": 3.1,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "web",
+    "score_sum": -1.65,
+    "total_magnitude": 12.6,
+    "n_posts": 24
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "etat",
+    "score_sum": 0.2,
+    "total_magnitude": 2.25,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "international",
+    "score_sum": -1.7,
+    "total_magnitude": 6.45,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-10-19T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.2,
+    "total_magnitude": 1.55,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.35,
+    "total_magnitude": 2.3,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "web",
+    "score_sum": 1.3,
+    "total_magnitude": 14.95,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "web",
+    "score_sum": -25.9,
+    "total_magnitude": 74.2,
+    "n_posts": 124
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "web",
+    "score_sum": -0.9,
+    "total_magnitude": 11.5,
+    "n_posts": 20
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "etat",
+    "score_sum": -1.4,
+    "total_magnitude": 1.55,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "web",
+    "score_sum": 0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "sport",
+    "score_sum": -1.75,
+    "total_magnitude": 3.6,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "web",
+    "score_sum": 1.6,
+    "total_magnitude": 2.15,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "international",
+    "score_sum": -0.6,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "familie",
+    "score_sum": -8.8,
+    "total_magnitude": 10.4,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "inland",
+    "score_sum": -4.95,
+    "total_magnitude": 20.35,
+    "n_posts": 33
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "international",
+    "score_sum": -7.15,
+    "total_magnitude": 10.5,
+    "n_posts": 19
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "international",
+    "score_sum": -18.95,
+    "total_magnitude": 23.85,
+    "n_posts": 38
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -6.7,
+    "total_magnitude": 10.35,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "inland",
+    "score_sum": -0.25,
+    "total_magnitude": 8.05,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "international",
+    "score_sum": 0.45,
+    "total_magnitude": 0.65,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.15,
+    "total_magnitude": 2.15,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -1.25,
+    "total_magnitude": 7.45,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.4,
+    "total_magnitude": 5.25,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -3.8,
+    "total_magnitude": 10.45,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -2.25,
+    "total_magnitude": 16.05,
+    "n_posts": 29
+  },
+  {
+    "topic_id": 21,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "panorama",
+    "score_sum": -1.0,
+    "total_magnitude": 1.7,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "international",
+    "score_sum": -1.0,
+    "total_magnitude": 1.8,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "panorama",
+    "score_sum": -7.8,
+    "total_magnitude": 14.5,
+    "n_posts": 23
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "politik",
+    "score_sum": -1.2,
+    "total_magnitude": 1.35,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -4.5,
+    "total_magnitude": 7.15,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 23,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "panorama",
+    "score_sum": -5.2,
+    "total_magnitude": 9.55,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "inland",
+    "score_sum": -0.8,
+    "total_magnitude": 0.7,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "international",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "kda",
+    "score_sum": -0.6,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 25,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "etat",
+    "score_sum": -48.25,
+    "total_magnitude": 91.6,
+    "n_posts": 153
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "inland",
+    "score_sum": -2.85,
+    "total_magnitude": 13.9,
+    "n_posts": 23
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "kommentare",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "panorama",
+    "score_sum": -28.55,
+    "total_magnitude": 73.9,
+    "n_posts": 127
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "lifestyle",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "panorama",
+    "score_sum": 0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -2.45,
+    "total_magnitude": 9.25,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "fsmisik",
+    "score_sum": -10.25,
+    "total_magnitude": 22.05,
+    "n_posts": 34
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "panorama",
+    "score_sum": -51.65,
+    "total_magnitude": 103.8,
+    "n_posts": 170
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "inland",
+    "score_sum": -2.45,
+    "total_magnitude": 8.35,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "kultur",
+    "score_sum": -1.7,
+    "total_magnitude": 4.2,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "web",
+    "score_sum": -0.4,
+    "total_magnitude": 5.25,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "etat",
+    "score_sum": 1.7,
+    "total_magnitude": 10.2,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "international",
+    "score_sum": -0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-10-26T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.2,
+    "total_magnitude": 2.6,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "web",
+    "score_sum": 0.6,
+    "total_magnitude": 1.8,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "web",
+    "score_sum": -2.0,
+    "total_magnitude": 19.25,
+    "n_posts": 39
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "web",
+    "score_sum": -4.05,
+    "total_magnitude": 8.5,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "international",
+    "score_sum": -0.05,
+    "total_magnitude": 1.55,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "sport",
+    "score_sum": 19.65,
+    "total_magnitude": 68.5,
+    "n_posts": 124
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "sport",
+    "score_sum": 0.83,
+    "total_magnitude": 11.25,
+    "n_posts": 22
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "web",
+    "score_sum": 4.1,
+    "total_magnitude": 12.9,
+    "n_posts": 22
+  },
+  {
+    "topic_id": 9,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "web",
+    "score_sum": -5.5,
+    "total_magnitude": 10.25,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 10,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "web",
+    "score_sum": -13.55,
+    "total_magnitude": 27.85,
+    "n_posts": 45
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "international",
+    "score_sum": -20.95,
+    "total_magnitude": 49.3,
+    "n_posts": 78
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "familie",
+    "score_sum": -2.0,
+    "total_magnitude": 2.1,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "inland",
+    "score_sum": -1.4,
+    "total_magnitude": 4.9,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "karriere",
+    "score_sum": -12.15,
+    "total_magnitude": 47.05,
+    "n_posts": 89
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "international",
+    "score_sum": -26.9,
+    "total_magnitude": 39.15,
+    "n_posts": 65
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "international",
+    "score_sum": -5.25,
+    "total_magnitude": 6.35,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -1.0,
+    "total_magnitude": 3.75,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -5.1,
+    "total_magnitude": 9.25,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "inland",
+    "score_sum": -0.8,
+    "total_magnitude": 0.7,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "international",
+    "score_sum": -4.5,
+    "total_magnitude": 7.15,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -6.6,
+    "total_magnitude": 10.05,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -5.15,
+    "total_magnitude": 21.5,
+    "n_posts": 35
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -0.4,
+    "total_magnitude": 0.5,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -1.25,
+    "total_magnitude": 9.6,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "inland",
+    "score_sum": -13.7,
+    "total_magnitude": 32.3,
+    "n_posts": 56
+  },
+  {
+    "topic_id": 21,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "international",
+    "score_sum": 0.05,
+    "total_magnitude": 3.8,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 21,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -10.75,
+    "total_magnitude": 19.9,
+    "n_posts": 31
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "inland",
+    "score_sum": -3.25,
+    "total_magnitude": 4.0,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "inland",
+    "score_sum": -29.1,
+    "total_magnitude": 48.65,
+    "n_posts": 84
+  },
+  {
+    "topic_id": 25,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "etat",
+    "score_sum": -0.15,
+    "total_magnitude": 5.5,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "kommentare",
+    "score_sum": -2.3,
+    "total_magnitude": 8.35,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "panorama",
+    "score_sum": -20.35,
+    "total_magnitude": 44.7,
+    "n_posts": 80
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "reisen",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -1.8,
+    "total_magnitude": 6.4,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "fsmisik",
+    "score_sum": -18.5,
+    "total_magnitude": 36.25,
+    "n_posts": 58
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -15.0,
+    "total_magnitude": 49.85,
+    "n_posts": 80
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "inland",
+    "score_sum": -50.75,
+    "total_magnitude": 106.7,
+    "n_posts": 180
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "kda",
+    "score_sum": 0.5,
+    "total_magnitude": 8.45,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "panorama",
+    "score_sum": -29.55,
+    "total_magnitude": 55.7,
+    "n_posts": 89
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": 0.8,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "international",
+    "score_sum": -3.0,
+    "total_magnitude": 3.95,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.95,
+    "total_magnitude": 4.0,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "inland",
+    "score_sum": -1.0,
+    "total_magnitude": 2.15,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.4,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "kultur",
+    "score_sum": 1.1,
+    "total_magnitude": 8.0,
+    "n_posts": 18
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "web",
+    "score_sum": -5.6,
+    "total_magnitude": 8.3,
+    "n_posts": 15
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "etat",
+    "score_sum": -3.0,
+    "total_magnitude": 15.55,
+    "n_posts": 27
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-11-02T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 0,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -6.75,
+    "total_magnitude": 9.7,
+    "n_posts": 15
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "reisen",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "web",
+    "score_sum": 0.3,
+    "total_magnitude": 1.7,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "web",
+    "score_sum": -0.8,
+    "total_magnitude": 1.15,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "web",
+    "score_sum": -14.25,
+    "total_magnitude": 51.2,
+    "n_posts": 94
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "familie",
+    "score_sum": -1.0,
+    "total_magnitude": 2.4,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "international",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "sport",
+    "score_sum": -5.8,
+    "total_magnitude": 29.65,
+    "n_posts": 52
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "sport",
+    "score_sum": 0.9,
+    "total_magnitude": 7.85,
+    "n_posts": 15
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "web",
+    "score_sum": -0.25,
+    "total_magnitude": 4.05,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 10,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "web",
+    "score_sum": 0.0,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "international",
+    "score_sum": -2.45,
+    "total_magnitude": 10.45,
+    "n_posts": 16
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "kommentare",
+    "score_sum": -1.75,
+    "total_magnitude": 3.05,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "inland",
+    "score_sum": -8.0,
+    "total_magnitude": 10.95,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "panorama",
+    "score_sum": -5.55,
+    "total_magnitude": 11.9,
+    "n_posts": 20
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -5.7,
+    "total_magnitude": 26.4,
+    "n_posts": 42
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "international",
+    "score_sum": -42.15,
+    "total_magnitude": 81.55,
+    "n_posts": 129
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "international",
+    "score_sum": -6.0,
+    "total_magnitude": 17.7,
+    "n_posts": 29
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -3.65,
+    "total_magnitude": 12.3,
+    "n_posts": 21
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.2,
+    "total_magnitude": 0.95,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "international",
+    "score_sum": -1.2,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "panorama",
+    "score_sum": -6.95,
+    "total_magnitude": 19.3,
+    "n_posts": 32
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -2.6,
+    "total_magnitude": 9.1,
+    "n_posts": 14
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "inland",
+    "score_sum": -1.15,
+    "total_magnitude": 3.6,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -52.75,
+    "total_magnitude": 92.25,
+    "n_posts": 145
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "international",
+    "score_sum": -3.85,
+    "total_magnitude": 6.0,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "kommentare",
+    "score_sum": -0.6,
+    "total_magnitude": 0.45,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 21,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "international",
+    "score_sum": -0.35,
+    "total_magnitude": 2.55,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "panorama",
+    "score_sum": -15.25,
+    "total_magnitude": 29.7,
+    "n_posts": 57
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.8,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 23,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "sport",
+    "score_sum": -0.6,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "inland",
+    "score_sum": -151.8,
+    "total_magnitude": 285.45,
+    "n_posts": 464
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "panorama",
+    "score_sum": -28.9,
+    "total_magnitude": 48.1,
+    "n_posts": 74
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 25,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "etat",
+    "score_sum": -0.75,
+    "total_magnitude": 2.95,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "kommentare",
+    "score_sum": -3.05,
+    "total_magnitude": 17.95,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.6,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -1.4,
+    "total_magnitude": 5.7,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "fsmisik",
+    "score_sum": 0.4,
+    "total_magnitude": 0.15,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "inland",
+    "score_sum": -43.4,
+    "total_magnitude": 88.1,
+    "n_posts": 143
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "kolumnen",
+    "score_sum": -28.55,
+    "total_magnitude": 66.5,
+    "n_posts": 105
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "inland",
+    "score_sum": -0.6,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "panorama",
+    "score_sum": -20.05,
+    "total_magnitude": 45.2,
+    "n_posts": 77
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "reisen",
+    "score_sum": -1.1,
+    "total_magnitude": 4.4,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -30.5,
+    "total_magnitude": 58.9,
+    "n_posts": 96
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -9.85,
+    "total_magnitude": 24.2,
+    "n_posts": 41
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -5.6,
+    "total_magnitude": 16.35,
+    "n_posts": 27
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "kultur",
+    "score_sum": 1.0,
+    "total_magnitude": 2.5,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -1.75,
+    "total_magnitude": 16.05,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 34,
+    "week_start": "2015-11-09T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.85,
+    "total_magnitude": 1.25,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 0,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -5.25,
+    "total_magnitude": 9.45,
+    "n_posts": 15
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "web",
+    "score_sum": 0.25,
+    "total_magnitude": 1.0,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "web",
+    "score_sum": -10.3,
+    "total_magnitude": 24.05,
+    "n_posts": 43
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "familie",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "kommentare",
+    "score_sum": -0.05,
+    "total_magnitude": 3.05,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "web",
+    "score_sum": 0.35,
+    "total_magnitude": 35.65,
+    "n_posts": 65
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "sport",
+    "score_sum": 10.75,
+    "total_magnitude": 82.4,
+    "n_posts": 142
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "inland",
+    "score_sum": -11.9,
+    "total_magnitude": 22.65,
+    "n_posts": 44
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "sport",
+    "score_sum": -7.75,
+    "total_magnitude": 41.8,
+    "n_posts": 79
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "web",
+    "score_sum": -2.2,
+    "total_magnitude": 22.95,
+    "n_posts": 38
+  },
+  {
+    "topic_id": 10,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "web",
+    "score_sum": -11.2,
+    "total_magnitude": 27.95,
+    "n_posts": 49
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "international",
+    "score_sum": -70.15,
+    "total_magnitude": 113.5,
+    "n_posts": 192
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "kommentare",
+    "score_sum": -2.75,
+    "total_magnitude": 6.0,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "familie",
+    "score_sum": -4.8,
+    "total_magnitude": 8.1,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "inland",
+    "score_sum": -11.6,
+    "total_magnitude": 54.3,
+    "n_posts": 89
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "international",
+    "score_sum": 0.2,
+    "total_magnitude": 0.4,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "international",
+    "score_sum": -1.0,
+    "total_magnitude": 2.15,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.2,
+    "total_magnitude": 4.1,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "inland",
+    "score_sum": -1.2,
+    "total_magnitude": 5.35,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "gesundheit",
+    "score_sum": 3.8,
+    "total_magnitude": 18.75,
+    "n_posts": 35
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 0.1,
+    "total_magnitude": 9.4,
+    "n_posts": 17
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "international",
+    "score_sum": 0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -0.25,
+    "total_magnitude": 21.15,
+    "n_posts": 40
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "panorama",
+    "score_sum": 11.0,
+    "total_magnitude": 46.5,
+    "n_posts": 84
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -2.1,
+    "total_magnitude": 6.85,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.8,
+    "total_magnitude": 0.7,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "international",
+    "score_sum": -30.1,
+    "total_magnitude": 51.0,
+    "n_posts": 84
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "kommentare",
+    "score_sum": -0.4,
+    "total_magnitude": 0.65,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "web",
+    "score_sum": 0.5,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 21,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "international",
+    "score_sum": -30.05,
+    "total_magnitude": 56.85,
+    "n_posts": 96
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "inland",
+    "score_sum": -3.7,
+    "total_magnitude": 8.3,
+    "n_posts": 19
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "international",
+    "score_sum": -0.6,
+    "total_magnitude": 0.7,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "web",
+    "score_sum": -5.3,
+    "total_magnitude": 13.1,
+    "n_posts": 23
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "inland",
+    "score_sum": -1.4,
+    "total_magnitude": 1.7,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "international",
+    "score_sum": 0.65,
+    "total_magnitude": 1.6,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "kommentare",
+    "score_sum": -12.7,
+    "total_magnitude": 36.5,
+    "n_posts": 60
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "familie",
+    "score_sum": -1.4,
+    "total_magnitude": 2.9,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 2.85,
+    "total_magnitude": 20.05,
+    "n_posts": 39
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "inland",
+    "score_sum": 0.4,
+    "total_magnitude": 3.3,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -2.5,
+    "total_magnitude": 6.65,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -2.6,
+    "total_magnitude": 4.05,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.35,
+    "total_magnitude": 7.7,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 33,
+    "week_start": "2015-11-16T00:00:00",
+    "category": "etat",
+    "score_sum": -0.2,
+    "total_magnitude": 1.3,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -1.3,
+    "total_magnitude": 4.9,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 2,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "web",
+    "score_sum": -3.0,
+    "total_magnitude": 13.45,
+    "n_posts": 23
+  },
+  {
+    "topic_id": 3,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "web",
+    "score_sum": 0.3,
+    "total_magnitude": 5.8,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 4,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "web",
+    "score_sum": -2.8,
+    "total_magnitude": 14.5,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 5,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "kda",
+    "score_sum": -2.6,
+    "total_magnitude": 5.1,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "sport",
+    "score_sum": 6.6,
+    "total_magnitude": 60.55,
+    "n_posts": 103
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "inland",
+    "score_sum": -0.4,
+    "total_magnitude": 0.5,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "sport",
+    "score_sum": -10.0,
+    "total_magnitude": 38.1,
+    "n_posts": 65
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "web",
+    "score_sum": 0.1,
+    "total_magnitude": 5.8,
+    "n_posts": 11
+  },
+  {
+    "topic_id": 9,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "web",
+    "score_sum": 1.15,
+    "total_magnitude": 3.55,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 10,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "web",
+    "score_sum": -3.5,
+    "total_magnitude": 5.9,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "international",
+    "score_sum": -1.95,
+    "total_magnitude": 4.7,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "inland",
+    "score_sum": -6.85,
+    "total_magnitude": 25.0,
+    "n_posts": 40
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "karriere",
+    "score_sum": 2.75,
+    "total_magnitude": 9.7,
+    "n_posts": 15
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "panorama",
+    "score_sum": -38.0,
+    "total_magnitude": 90.15,
+    "n_posts": 152
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "international",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "inland",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 16,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.4,
+    "total_magnitude": 2.95,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -0.4,
+    "total_magnitude": 1.35,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 0.75,
+    "total_magnitude": 1.25,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.4,
+    "total_magnitude": 3.65,
+    "n_posts": 6
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "international",
+    "score_sum": -94.25,
+    "total_magnitude": 159.35,
+    "n_posts": 257
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "kommentare",
+    "score_sum": -10.5,
+    "total_magnitude": 19.45,
+    "n_posts": 28
+  },
+  {
+    "topic_id": 21,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "international",
+    "score_sum": -10.1,
+    "total_magnitude": 18.7,
+    "n_posts": 29
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "inland",
+    "score_sum": -1.2,
+    "total_magnitude": 3.05,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "panorama",
+    "score_sum": -3.75,
+    "total_magnitude": 7.05,
+    "n_posts": 12
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "inland",
+    "score_sum": -41.3,
+    "total_magnitude": 114.1,
+    "n_posts": 191
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "panorama",
+    "score_sum": -8.4,
+    "total_magnitude": 43.65,
+    "n_posts": 70
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "familie",
+    "score_sum": -1.4,
+    "total_magnitude": 4.9,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -9.7,
+    "total_magnitude": 27.6,
+    "n_posts": 49
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "inland",
+    "score_sum": -9.15,
+    "total_magnitude": 28.5,
+    "n_posts": 46
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "panorama",
+    "score_sum": -11.05,
+    "total_magnitude": 27.0,
+    "n_posts": 46
+  },
+  {
+    "topic_id": 30,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -0.6,
+    "total_magnitude": 0.7,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 31,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": -1.0,
+    "total_magnitude": 4.9,
+    "n_posts": 8
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "etat",
+    "score_sum": 2.05,
+    "total_magnitude": 3.0,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-11-23T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.95,
+    "total_magnitude": 1.25,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 1,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "reisen",
+    "score_sum": 0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "sport",
+    "score_sum": -0.8,
+    "total_magnitude": 1.85,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 8,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "web",
+    "score_sum": 0.9,
+    "total_magnitude": 2.8,
+    "n_posts": 5
+  },
+  {
+    "topic_id": 9,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "web",
+    "score_sum": 1.75,
+    "total_magnitude": 4.15,
+    "n_posts": 9
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "international",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "familie",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "inland",
+    "score_sum": -0.8,
+    "total_magnitude": 2.05,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "international",
+    "score_sum": -4.0,
+    "total_magnitude": 4.25,
+    "n_posts": 7
+  },
+  {
+    "topic_id": 17,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "international",
+    "score_sum": -1.9,
+    "total_magnitude": 6.2,
+    "n_posts": 10
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -6.25,
+    "total_magnitude": 38.2,
+    "n_posts": 73
+  },
+  {
+    "topic_id": 19,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "wirtschaft",
+    "score_sum": 0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 20,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "international",
+    "score_sum": 0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "inland",
+    "score_sum": 0.05,
+    "total_magnitude": 1.25,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 27,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": -0.2,
+    "total_magnitude": 1.0,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "inland",
+    "score_sum": -0.6,
+    "total_magnitude": 1.9,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 29,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "international",
+    "score_sum": 0.0,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "etat",
+    "score_sum": -2.2,
+    "total_magnitude": 7.3,
+    "n_posts": 13
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-11-30T00:00:00",
+    "category": "kultur",
+    "score_sum": 0.25,
+    "total_magnitude": 0.45,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-12-07T00:00:00",
+    "category": "inland",
+    "score_sum": 0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 11,
+    "week_start": "2015-12-07T00:00:00",
+    "category": "international",
+    "score_sum": -0.4,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-12-07T00:00:00",
+    "category": "karriere",
+    "score_sum": -0.6,
+    "total_magnitude": 0.7,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-12-07T00:00:00",
+    "category": "lifestyle",
+    "score_sum": -0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 4
+  },
+  {
+    "topic_id": 6,
+    "week_start": "2015-12-14T00:00:00",
+    "category": "sport",
+    "score_sum": 0.2,
+    "total_magnitude": 0.35,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 14,
+    "week_start": "2015-12-14T00:00:00",
+    "category": "international",
+    "score_sum": -0.6,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-12-14T00:00:00",
+    "category": "lifestyle",
+    "score_sum": 1.25,
+    "total_magnitude": 1.8,
+    "n_posts": 3
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2015-12-14T00:00:00",
+    "category": "wissenschaft",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 24,
+    "week_start": "2015-12-14T00:00:00",
+    "category": "inland",
+    "score_sum": -1.2,
+    "total_magnitude": 1.3,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 26,
+    "week_start": "2015-12-14T00:00:00",
+    "category": "panorama",
+    "score_sum": -0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-12-14T00:00:00",
+    "category": "inland",
+    "score_sum": -0.6,
+    "total_magnitude": 1.2,
+    "n_posts": 2
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-12-21T00:00:00",
+    "category": "familie",
+    "score_sum": -0.8,
+    "total_magnitude": 0.7,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2015-12-21T00:00:00",
+    "category": "inland",
+    "score_sum": -0.4,
+    "total_magnitude": 0.5,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 28,
+    "week_start": "2015-12-21T00:00:00",
+    "category": "inland",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 7,
+    "week_start": "2015-12-28T00:00:00",
+    "category": "sport",
+    "score_sum": -0.6,
+    "total_magnitude": 0.5,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 13,
+    "week_start": "2015-12-28T00:00:00",
+    "category": "international",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 32,
+    "week_start": "2015-12-28T00:00:00",
+    "category": "kultur",
+    "score_sum": -0.4,
+    "total_magnitude": 0.5,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 9,
+    "week_start": "2016-01-04T00:00:00",
+    "category": "web",
+    "score_sum": 0.35,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 22,
+    "week_start": "2016-01-18T00:00:00",
+    "category": "inland",
+    "score_sum": 0.2,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2016-01-25T00:00:00",
+    "category": "inland",
+    "score_sum": -0.6,
+    "total_magnitude": 0.8,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 12,
+    "week_start": "2016-02-01T00:00:00",
+    "category": "familie",
+    "score_sum": -0.8,
+    "total_magnitude": 0.75,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 15,
+    "week_start": "2016-02-22T00:00:00",
+    "category": "gesundheit",
+    "score_sum": -0.6,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  },
+  {
+    "topic_id": 18,
+    "week_start": "2016-04-18T00:00:00",
+    "category": "gesundheit",
+    "score_sum": 0.5,
+    "total_magnitude": 0.6,
+    "n_posts": 1
+  }
+]
